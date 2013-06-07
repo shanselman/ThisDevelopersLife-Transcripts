@@ -9,8 +9,8 @@ You can check out the issues tab https://github.com/shanselman/ThisDevelopersLif
 ##File Naming
 Name your files like this and PR them. Don't start a file unless you've claimed it in the issue for that show. Perhaps work as a team and split work up. Let's make these very tidy!
 
-TDL1.0.1-Getting-Fired.md
-TDL2.0.4-Taste.md
+* TDL1.0.1-Getting-Fired.md
+* TDL2.0.4-Taste.md
 
 ##Example Transcript
 
