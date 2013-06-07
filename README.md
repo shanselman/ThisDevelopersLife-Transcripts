@@ -25,4 +25,13 @@ R: Thanks!
 
 S: You're welcome.
 
+#### Act 2: Pants
+
+Guest: This is my story.
+
+Rob: Great story!
+
+Guest: Thanks!
+
+Rob: You rock.
 
