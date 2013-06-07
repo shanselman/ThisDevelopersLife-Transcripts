@@ -18,8 +18,11 @@ TDL2.0.4-Taste.md
 ### Show Title
 
 Rob: This week on This Developer's Life...
+
 Scott: Great job, Rob!
+
 R: Thanks!
+
 S: You're welcome.
 
 
