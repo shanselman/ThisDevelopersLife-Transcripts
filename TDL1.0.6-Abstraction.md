@@ -1,6 +1,6 @@
-=== 1.0.6: Abstractions
+### 1.0.6: Abstractions
 
-==== Introduction
+#### Introduction
 
 Rob: Hey, everyone. This is Rob and thank you for listening to This Developer's Life, episode number 6.
 
@@ -62,7 +62,7 @@ Scott: That's perfect.
 
 [end of interview transition]
 
-==== Ward Cunningham
+#### Ward Cunningham
 
 I was thinking I would go talk to Ward Cunningham. Maybe you've heard about the idea of a wiki. He's the guy that invented the wiki. Do you ever wish you had like a crazy, old uncle. But instead of the kind that would take you fishing all the time, he would take you down to the cave and show you how to burn things, and do physics experiments? This is what Ward's house is like. You come in, and you immediately know that there's electronic parts being shipped to and from. And he says, "Let's go downstairs into the workshop." And you go down into the workshop, and it's like, this wonderful episode of hoarders. But not the bad hoarders where they hoard all sorts of things that they should have thrown away. This is the good kind of hoarders where you've got fifty years of computing history in here. There's literally a PowerBook next to a brand new Mac. And a Windows machine next to an oscilloscope.
 
@@ -100,7 +100,7 @@ Rob: So lately, I've really been enjoying all the light weight tools out there t
 
 Scott: Right! For a lot of people who like to write code and tinker, that layer of abstraction can be a pain. It's a lie. They don't like being lied to. They really want to get down and get dirty. They want to see what's happening.
 
-==== Professor Connery
+#### Professor Connery
 
 Rob: One thing I don't want to do is relive what these guys had to go through, in terms of what they needed to understand just to get their work done! Don't get me wrong. I like abstraction. And well, I spoke to my brother who I've mentioned on my blog a few times. He's a professor up at University of Oregon, in Eugene. Did I say Eugene right this time?
 
@@ -126,7 +126,7 @@ Rob: So that's just old technology right there. I mean, using toggles to log in 
 
 Scott: Well, and that's where you get into the philosophy of it. Is he a better person. Like demonstrably and objectively a better person? Probably not. But, how can you not want to know this stuff? And isn't that, he _knows_ how the login system works now. Now I suppose I could just type in my name and my password and hit enter, and just hope that some magic gnomes take my password over to the server and do it. And for I know, there was magic gnomes. But to really know what's happening there, understand the chain that's in place, to know that those toggles cause some hashing algorithms to do some work. That's inspiration that you can use in your work. Just the knowing of that, at your core, even if you don't consciously know it, can make you a more effective coder. Let's do some mixed metaphors here. You're standing on the shoulders of giants, sure. But I mean, your crown has been paid for. You just need to put it on. You don't need to know any of the wars, and the drama, and the mainframes, and the mini-computers, and the Apple II that came before you. Alright. Guys like Dan Bricklin did that work for you. They fought those wars. They invented this stuff from scratch.
 
-==== Dan Bricklin
+#### Dan Bricklin
 
 And look, what I talked to Dan last week, what he said about developing UIs.
 
@@ -140,7 +140,7 @@ Rob: Yeah. Dan. Dan is amazing.
 
 Scott: I mean don't you just feel smarter because you listened to him talk? I mean, he's just _mainlining_ information.
 
-==== Charles Petzold
+#### Charles Petzold
 
 Rob: Yeah, absolutely. Something that's fascinated me as well is that… Well, I listened to the recording you did last week with Charles Petzold. 
 
