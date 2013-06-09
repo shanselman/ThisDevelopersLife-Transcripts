@@ -52,7 +52,7 @@ Rob: Well you know it's funny that you bring that up, because... so whenever you
 
 [Musical interlude]
 
-#### Act I: Chad Myers
+##### Vignette: Chad Myers
 
 Chad Myers: Quickly, they started to hire more marketing people and the requirements really just started... getting weird.
 
@@ -62,7 +62,7 @@ Chad: And, lo and behold we came to find out that it was a multi-level marketing
 
 [Musical interlude]
 
-#### Act II: Sara Chipps with Scott Reynolds
+##### Vignette: Scott Reynolds
 
 Scott Reynolds: Wasn't able to use source control...
 
@@ -88,7 +88,7 @@ Scott R: In *Access*.
 
 [Musical interlude]
 
-#### Act III: Doug Rohrer
+##### Vignette: Doug Rohrer
 
 Doug Rohrer: Pretty much got the call, showed up the next Monday morning...
 
@@ -111,6 +111,8 @@ Scott: And I think that, by the time I'm 40, I think I'll have that skill.
 Rob: Well absolutely, but you can't just all of a sudden have a squelch filter. You have to work a number of projects before you can decide, "I don't want to do this project." In other words, you need to have been burned at least once to understand what being burned feels like, right?
 
 Scott: Absolutely. It's about being burned, it's about being *boiled*. Slowly. Nobody *joins* a deathmarch. No one says, "I've got this great contract in Pennsylvania. It's a deathmarch. Would you like to join our deathmarch?" No, it happens slow. You turn the heat up slow. The frog doesn't know he's getting boiled.
+
+#### Doug Rohrer
 
 Doug: Hmm, never tried to make Skype shut up before.
 
