@@ -232,4 +232,22 @@ Rob: Ok, so we have a manager who is *clearly* a bit of a sleazeball. I mean, wh
 
 Chad: I was working as a consultant, and they put me into a dot-com startup. And I wasn't the team lead right away, but I was tapped to be the team lead shortly after. So I walked into the middle of the project, and it was already fully ramped up. I guess they were planning on hiring one or two more people, but it was in full swing. And at first it seemed like a really exciting thing. It was a dating site, an online dating site. And they were starting to do some cool stuff with Flash, and they wanted to do instant messaging inside the web application. Which was fairly new at that point, instant messaging through the web. And then they, you know, we had to do all the stuff with blocking, and you know, making sure that people couldn't harass other people.
 
-(Stopping at 30:53)
+Scott: So, what happened?
+
+Rob: Oh, I suppose it's your typical story in this way. He worked the long hours, slaving over the code and driving his team to produce more and more... burning the midnight oil. Then eventually things came to a head.
+
+Chad: One night, after having been working til 2 or 3 in the morning several nights successively, I came home and my wife was there with my daughter, second child. And she had waited up for me, it was like 3-something, and she was just crying. And she said, "Chad, I can't do it anymore." And that's when I... that put the nail in the coffin. That's when I knew, "Ok, something's not..." I can't make excuses for him anymore.
+
+[Musical interlude]
+
+Rob: You gave reasons, which you had to stick with this cocaine hooker guy. And then you come home and your wife is falling to pieces. I mean that must have been crushing.
+
+Chad: Yeah, you know, because she saw through everything right away. You know, she saw the simple facts. The simple fact is I was staying late for work, this thing wasn't going anywhere it was supposed to be going. You know, all the promises that had been made to me that I turned around and made to her, none of them were coming to fruition. So you know, she saw right through the whole thing.
+
+[Musical interlude]
+
+Chad: And, you know it's tougher when you're right in there, in the middle of it. Because you say, "Well, you know maybe he missed this prediction or maybe he missed that promise, but there's still a lot of potential here. You know, we're getting in on the ground floor, and this is going to be really great, really awesome..." And really, you just lie to yourself. Like you said, Stockholm syndrome. But, yeah, it's another reason why I love having a family. Because it really keeps you honest. There's no lying to the family - you can lie to them all you want, but they see right through it.
+
+[Musical interlude]
+
+(Stopping 33:01)
