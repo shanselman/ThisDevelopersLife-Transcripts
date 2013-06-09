@@ -35,9 +35,67 @@ So I'm standing here in my driveway just as my wife pulled away to go to the air
 
 [Musical Interlude]
 
-**Rob**:I'm sitting at my desk; this is weird.  Uh my wife is... she works at home, just like I do but we both have offices here in our house.  We both are able to and office and uh, she works out of the house as do I.  And uh, she's not here, and it's weird because the house is always bustling with something.  I mean she's moving up and down the stairs, she's seeing patients, she does acupuncture.  And there is voices always, there's some kind of activity, it's either her or the children, but it's so quiet.  I'm just not used to that.  But it's kind of nice.
+**Rob**: I'm sitting at my desk; this is weird.  Uh my wife is... she works at home, just like I do but we both have offices here in our house.  We both are able to and office and uh, she works out of the house as do I.  And uh, she's not here, and it's weird because the house is always bustling with something.  I mean she's moving up and down the stairs, she's seeing patients, she does acupuncture.  And there is voices always, there's some kind of activity, it's either her or the children, but it's so quiet.  I'm just not used to that.  But it's kind of nice.
 
 So I just checked my calendar here.  I use Google's calendar and it syncs with my phone.  I've put in all of the times I have to be somewhere for the kids and my god, this is crazy.  I had no idea just how much.. I mean for instance, both of them they go to a different school so they start and they get out at different times and one of them has a short day this week and the other has ballet lessons and oh my goddness, [giggling] how am I going to do this?
+
+[Musical Interlude]
+
+**Rob**: Alright well it's lunch time and I've been reasonably productive.  It's kind of funny, I spend so much time on Twitter.  And uh, you know reading emails and so on, I've had to shut it off because I know that I got to get up at two and get out of here.  And, well it's two. I'm sitting here staring at a billing problem that I'm trying to fix for Tekpub and I can't finish it.  I have to walk away and you know my partner, my business partner, James Avery, is on Skype and we're talking about all the things we can do once we finish the billing system.  And there's like a mountain of things that, I can't do it.  I've got to get up and walk away.  I'm exposed[not-sure], that is part of the deal.  [door slamming noise] Whoops slammed the door.  I guess that's part of the deal.  I have to be able to get up and disengage.  So anyway, I'm talking as I'm walking here because I've got to go.  I'm already late.
+
+[Musical Interlude]
+
+**Rob**: I like to think of myself as an optimistic person and well I know I went into this week thinking "this will be pretty easy weekend, I'll get to hang with my kids a little bit more, disengage from work... you know I'll just have to adjust."  And while that last part, "I'll just have to adjust", well it's not that simple.  I own a business that I have to maintain.  I also have to do this podcast which I very much enjoy and I have a couple contracts on the side.  Just turning off isn't that easy.  The good news is, that within no time, I am reminded of why I am doing this.
+
+[Musical Interlude]
+
+**Rob's child**: When ever I run, my pants keep falling down.
+
+**Rob**: [giggling] That happens to me all the time too.
+
+Okay, well we're out in the back yard.  We're playing.  This is fun.  I can't lie and tell you that I don't think I have tons of stuff to do but...
+
+Hey is that some kind of fort or... what are we doing? 
+
+**Rob's child**: What do you mean?
+
+**Rob**: I mean what's this whole, like...
+
+**Rob's child**: We're giving gifts to each other.  Like Ruby gave me that wood full of flowers.
+
+**Rob**: Ohh sweet
+
+**Rob**: So just to set the scene here a little bit, my kids have this ornate decoration on the little deck that's right outside of our bedroom and it's in these crazy patterns.  They got banana leaves and coconut husks and little twigs and sticks all done up in this crazy pattern and they've grabbed some of their animal figures and arranged them just so into like little beds and little buildings and stuff.  It's this whole big thing they've whipped out of nowhere within minutes.
+
+**Rob's child**: Well I just gave her the wood and the flowers all separated.
+
+**Rob**: That's very nice.  I see you got your pants back up. [giggling]
+
+**Rob's child**: Every time I run my pants fall down, even when I'm like all the way over there by Pua, when she got dead. [child giggling]
+
+**Rob**: Pua is the cat that we had.  Got run over by a car and we buried her in our back yard.  
+
+**Rob**: [laughing at children]
+
+**Rob's child**: ...and...
+
+**Rob**: My sensitive sweet daughter.
+
+**Rob's child**: ...and I got this.
+
+**Rob**: Oh, that's a really cool coconut husk.  You found that over by Pua?
+
+**Rob's child**: mmhmm.
+
+**Rob**: Cool.  Well what are you doing with it?
+
+**Rob's child**: Whenever I run back, my pants fall down up to here.
+
+**Rob**: Maybe it's Pua's ghost pulling your pants down.
+
+**Rob's child**: Noooo..... [very exaggerated]
+
+**Rob**: [giggling]  Yea, what billing system?
 
 [Musical Interlude]
 
