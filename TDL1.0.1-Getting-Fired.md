@@ -152,3 +152,13 @@ I learn better ways to say no, and I learned, and I also learned sneaky ways to 
 [Musical interlude]
 
 R: Sara J Chipps has a blog of a girldeveloper.com many thanks for sharing your story with us today.
+
+[Musical interlude]
+
+R: Saying that you grow up here a lot. Its the best defense is good offense. Apparently as per our next story teller here that applies to job market as well. So, I talked to Oren Eini other wise known as Ayende Rahien about well times that he had been fired. 
+
+Oren Eini : My clients think to pick me, mostly from the blog. I am known quantity. And type of things they suggest and type of thing we work and tend to be pretty fix. They already pretty much know what I am going to do and they brought all that actual implementation and whatever they doing for their software. To be able convince their bosses that something happens after he got. 
+
+I think that is what happen. Because for most part this is not happen random. People are actually selecting me because they started going to argue for. 
+
+R: For listener in audience who don't have any idea who is Ayende Rahine is? He is prominent blogger. He is quite a young guy leaves in Israel. He is fairly opinionated. And he is prolific with his blog post. Not only in the quantity of post he writes but also in depth and the quality. You have to look preety hard to find a guy well as verse in Microsoft Technology as Ayende is. He is hired by Microsoft to come in and critic their efforts. And hired by government and all kind of folks to come in and help out. So, Ayende says when people seek him out he is telling the exact truth but Oren has not been fired. I actually found  to be a little  bit amusing, when you spend anytime talking to Oren. You found out quickly that he is a passionate guy. And not only that but he is quite forth right. Like someone says on your face 
