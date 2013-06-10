@@ -172,7 +172,7 @@ Scott: Oh I can't even hear you, my friend.
 
 Rob: Right, I suspected. Well you have your squelch dial set precisely because you've seen these things happen. You have the scars. But you don't when you're just getting started, which is kind of what we were talking about before. Doug seems like he is just a bit beyond getting started, he seems like he knows what he's doing. He's been around. But it also sounds like he wants to prove himself. For I don't know, what? Like upper management, a promotion? There's a lot of people that will bend their own wills, they'll do things they don't want to do, flex their family like Doug... in order to succeed.
 
-#### Chad Fowler
+#### Chad Fowler - Part I
 
 Chad Fowler: Alright, I think I'm ready to go.
 
@@ -250,4 +250,48 @@ Chad: And, you know it's tougher when you're right in there, in the middle of it
 
 [Musical interlude]
 
-(Stopping 33:01)
+Scott: Ok, ouch. I mean I'll give you that, I think we've all been there. We get a little swept up, a little carried away... our families react to it, they pull us back down to earth. We talked about this a little bit last week in [Disconnecting](http://thisdeveloperslife.com/post/1-1-0-disconnecting). Family first. I found when I had kids, just for me - and this is probably why I'll never be a millionaire, and why I'll never be a vice president anywhere - was that as soon as I had kids my sense of career aspirations just stopped. You know, family first, career ninth. That's just how I roll, and more and more I think people realize that that old adage is true. No one ever finds themselves on their death bed saying, "Man I really wish I worked *more*."
+
+Rob: Right, ok so let's bring this back on track. I mean what we're talking about here is, well we started out with the metaphor "squelch dial." But let's maybe put this to where other people can understand it. In Hollywood they say you make your career by the scripts that you turn down. And so it seems like the same thing holds true for our industry. That you have to master the ability to say, "I will not take that project, it is going to flex me too much." And you get to a point wher eyou start understanding that it's more important to turn a project down to keep your family life, your personal life and everything intact. It's much more important. As a matter of fact, Sara - who we just talked about - she talked to Scott Reynolds. Former geek, just like us. He writes for [McSweeney's](http://www.mcsweeneys.net/columns/dream-jobs-that-youre-glad-you-didnt-pursue) now, he doesn't do so much development anymore. And one of the interesting things about him, as opposed to Doug, he seemed to know full well what was happening to him when he was in the deathmarch. He had sort of a presence of mind as, well, this is hopeless. Here, I'll let him tell you.
+
+#### Scott Reynolds
+
+Scott Reynolds: At the time I was living in a very small town, that had really no tech. So I was working part-time at Barnes & Noble in the cafe. And this was after I had been a software developer in Boston for several years. I was employable, there was just no employment. So even afterwards I was still living in that same place, and you know some projects are... they're not gonna happen, but you've got a job so what are you gonna do, right? You just slog through it, even though you know bad stuff is gonna happen. And then you're like, well, maybe I can say "I told you so" to somebody... get a little personal satisfaction out of it.
+
+Sara Chipps: Right, right, "I'm gonna rescue this."
+
+Scott R: So I come in one morning, and he was there. Like his car was there.
+
+Sara: That's a total [Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html) fail.
+
+Rob: Just to catch you up, Scott and Sara are talking about Scott's employer. The guy who wouldn't let Scott use source control, wouldn't let him use C#. Instead telling him to rewrite everything in Access. Oh, and by the way, apologies up front for the sirens. The story's just too good.
+
+Scott R: Yeah, it was...
+
+Sara: A 0 on the Joel Test.
+
+Scott R: Like a -86 on the Joel Test. So I come in one morning and he's there, which is odd because he's a night guy. And he usually does most of his work from, like he'd come in at 4-5 in the afternoon and work through til 6 in the morning, and go home and go to sleep. My interview with him was at 11 o'clock at night.
+
+Sara: Right.
+
+Scott R: That might have, maybe been a red flag. But I was kind of a night owl too, so I was like, "Hey this is cool." So I get there one morning and he's there, at like, you know 9 o'clock in the morning. And so I kinda got that feeling, I was like "This is it, we're done." And so I come in, and he's like "I need to talk to you." I'm like, ok. And he goes, "Yeah, you know, I hired you to fix my accounting stuff." (Ehhh, no you didn't, but ok. Sure, that's what you hired me to do.) "And it's been months and you haven't done it." (Well I have... twice actually, but ok.) "So, you know, I'm just gonna have to let you go." And I was like, "Ok." And he's like, "I'll give you two weeks... or... two paychecks of severence." I was like, "Sweet. See ya later." And so I left him my laptop and I hopped in my car. I didn't have to put my coat on because I already had to wear it at work. And I went home. Took a nap.
+
+Scott Hanselman: That's extremely... I would even say remarkably grounded. I mean, good for him. He's able to recognize that it's just a job, and here's a guy who is able to either turn down scripts or take them with his eyes wide open. And what did you say that he's doing now?
+
+Rob: Um, well I think he quit the Internet basically, and the whole development thing. And now he's writing full-time for McSweeney's.
+
+Scott: Hmm. Well, maybe he didn't handle it so well.
+
+Rob: [laughing] True, I guess I didn't think of that. I mean I bet there's a number of ex-developers out there that, well, cracked for lack of a better word. I mean I'm not saying Scott did. But the pool is thinned because of it. Chad Fowler handled his situation pretty well. You remember his story about being an impostor. Well it turns out that he worked for a guy who was a pretty charismatic character. He did all the things that a cultish-style leader would do. Picking favorites, and a militaristic leadership style, and so on. And then comes the day when Chad's had enough.
+
+[Musical interlude]
+
+#### Chad Fowler - Part 2
+
+Chad: Like, your dad wants you to join the family business and run it. And you have no interest in running a dry cleaner, and finally you have to tell him. That's kind of the way I felt to let this guy know. And the funny thing is, the conversation where I let him know... at the time I was actually a couple of layers down the chain of command from him, doing a specific project. And it normally wouldn't have been him that I would have told. You know if I kind of followed the normal corporate chain of command when I was ready to leave. But, one day he sort of unexpectedly called me into his office because another one of the leaders was being transferred out of the organization, and he was basically offering me suddenly a big promotion and a position on his direct staff. Which is exactly the direction I'd been trying to go for years. And it was in that conversation that I had to say, "I can't do that because I'm gonna leave the company."
+
+So the way I felt when I left was actually at first just very emotional. Not negative or positive. I think by the time I got home I was absolutely comfortable with the decision. It's one of those funny things that I had felt sort of trapped for a long time. Trapped, you know, by my own devices. And as soon as I realized that I could un-trap myself, I was no longer worried. Um, for one thing I knew I had left on good terms. I hadn't even left yet, but I knew I was leaving on good terms. I had seen people leave this organization and come back, so I knew that was an option. But I didn't expect that to happen. What I expected to happen was that I would go out into the quote-unquote "real world" - try what it's like to be in a smaller, maybe faster-moving, more agile organization. I don't know why, but the moment when I broke the chains in this one organization was the moment that I realized that I wasn't an impostor.
+
+[Musical interlude]
+
+(Stopping at 40:33)
