@@ -2,9 +2,9 @@
 
 
 Featuring:
-	* Dave Nielsen
-	* Tom Preston-Werner
-	* Nate and Niki Kohari
+	-Dave Nielsen
+	-Tom Preston-Werner
+	-Nate and Niki Kohari
 
 #### Opening: 
 
@@ -54,7 +54,7 @@ Scott:  Alright now, that was three interesting segments, but that first segment
 
 Rob:  Ha ha, that's my friend Dave Nielsen.  Serial entrepreneur with about five different projects going all at once.  Did you ever see that movie, "Rushmore"?
 
-Scott:  Of course, of course.  This is the movie that actually made Jason Schwartzman's career.  Who, you know, we've seen him in everyhing.  He's in iPad and New Yorker advertisments, and he's on TV all the time.  And in the movie, his character, he's this high school kid.  But that he wants to be involved in everything.  
+Scott:  Of course, of course.  This is the movie that actually made Jason Schwartzman's career.  Who, you know, we've seen him in everything.  He's in iPad and New Yorker advertisments, and he's on TV all the time.  And in the movie, his character, he's this high school kid.  But that he wants to be involved in everything.  
 
 Rob:  Yep
 
