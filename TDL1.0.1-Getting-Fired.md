@@ -84,4 +84,71 @@ S: I came in at 10, like usually you know there is a shift that started at 8, so
 
 [Musical interlude]
 
-R: It was always fun to recon stories about early 
+R: It was always fun to recon stories about earlier jobs in our life. Or sometimes its funny how that job ended. In my case I got axed for being lame and Sara got axed for forgetting something rather important. Sometimes these stories aren't always funny. And in the course of taking to Sara for this show she mentioned second story to me. She says actually this is one little bit more serious. Lets kind of heard.
+
+[Musical interlude]
+
+R: You actually have two stories. 
+
+S: I do actually have two stories. The second one was, so ... after the...
+
+R: I just notice by the way your voice dropped in octave so this is gone be juicy one
+
+S: [Laughing with mix feelings] This very interesting story and probably one of the defining moment of my career. To tell you the truth. The company I went to work with after the big home depo for contractors. They ended up getting but sheers, kind of hostile taken over and development team got outsource. So, I was back to looking for work. And, I show this. I was doing some contract work for British Telecom. I really wasn't very happy. I show some cool list in Craig's list. Look like something pretty neat. It was just basically like; cool part of listing is it was fun group and they need someone to do web development thing. It is kind of really abstract. It wasn't very depth in it. I was just reached out and guy called me in and talk to me on phone when he told me what the job was;
+
+There was a magazine and he wanted to put together, it was pretty much, if I say reflection of very large scale CMS. And he wanted one developer to do it. And I have never worked by my self on project before. You know like this is, I relatively new to web development, I was doing it for little over two years so I just didn't really feel prepared to do something like this.
+
+So, I said thank you very much. But, I really don't thing I am qualify to do this. 
+
+
+[Musical interlude]
+
+S: And the guy was like; We call him Steve. So, Steve was like see honestly I love your personality please come in let me just talk to you. You know whatever; you know seriously I can not do this. I am not qualified to do this. 
+
+R: So, basically he is begging you to do the work. 
+
+
+[Musical interlude]
+
+S: Right. So, I went in and talked to him. I was honestly, we got along really well. Like personality wise it is really a fun group. They work for six week at a  time and took two weeks off. 
+
+
+[Musical interlude]
+
+R: So, Sara takes the job. As you could probably guess. Decides to why not??!!! I ll build the CMS, I ll do it by my self. She gets into it, wouldn't you???
+
+S: what a worst thing even can happen??? So,I really kind of put my all into this. And you know immediately I decide everything I ll do agile. I had put my agile wall up. You know I m the only developer but for this all, but whole wall up there and I put day putting all this wall together with my days and my cards. I made my cards and put together this all schema and I made this big display; what the database schema is gone a look like.
+
+
+[Musical interlude]
+
+S: Took about 5 months. 
+
+R: So, Sara spend 5 months building a application she didn't feel she was capable of building at first place. She really didn't wanna a do it. When offered her a job, she said no.  No I don't want to do this. I don't have a skills to do this. And she ended up doing it any way. And she builds an application she told me basically defined her. She put in ton of functionality; blog and every kind of CMS type of things. Imagine changing text, image, color all kind of stuff. Its lot of work over 5 months. She was proud of it.
+
+S: Upload a article and there was friend's component more like like component between businesses and all. I think they still have the application to this date. 
+
+
+[Musical interlude]
+
+S: So, towards like past last 3 months, I was working 90-100 hours a week. I was sleeping in the office. Like this is my child, this is my defining moment, right? And I was gonna do this; no matter what. Family and friends calling me like where are you? what happens to you? and whatever. And I told this is part of software, and you have to sacrifices, so I did. 
+
+One morning after spending most of my weekend, again working on this. I went in working one morning. I could tell that Steve I was working for was kind looking for stuff to find; there was wrong with like we can change this and we can change that. And to tell you at this I was kind exhausted and you know. But its towards the end, end of tunnel little bit. So, he kind of said I am really disappointing in this and I am disappointing that how long it is taking you. 
+
+And he was like you know I feel like this didn't get done fast enough. And to tell you the truth that we are loosing money and I can't afford to pay you more and I really disappointed in your work. 
+
+It was devastating. It has been my life for past 5 months and I had put everything into it. Done my best and my best was very disappointing. And I went devastated isn't a right word. It was, I was tired and spent and heart broken. You know if you work on something that hard and I build something beautiful. I had done something, there I still look back on with pride when I look at it now. And it was not good. And it was disappointing. And it was a failure. And I  went home, just kind of collapse on my couch and literally stays there for about four days. Until Like rescue party came for me from the office. (Laughs)
+
+[Musical interlude]
+
+R: It happens when you got too close to work, you get really into what you build. You get start to ,oh for lack of better words obsessed a little bit. Take it on as your own, because you wanna build your creating. You are creating something special and when you identify that thing with your own professional abilities well; its when things tend to get little bit what I call specially with the manager of the project. So, I asked Sara. You think you got bit too close? You think your manager sense that you are getting too close that you are taking ownership of this?
+
+S: I don't, I don't know to tell you the truth. He defiantly freaked out the days in the office that I was sitting there in same cloths. Before he look at my computer. I think towards the end there was lot, I wouldn't say head budding more I would say grading. You know what I mean. It like I was frustrated and he was frustrated. And you could tell in our meeting, that when he would ask for things and I like I would be, I finally learn the word NO. Probably 3 weeks before my last day. Finally learn; I never forget that he got so angry, that I said sorry that's not possible. It was not huge feature change, feature is already been added and he want me to make it different. It was about like 2-3 days of work. And I was like I am sorry, no it cant happen. It made him so.... 
+
+Open to this point I never said anything like that, alright how will do that. Like every time he come to me something new, I ll be like OK, do some research; OK this how we ll gone do it and this what you gone a see. You know this is very, the whole thing. Like how much I learn. 
+
+I learn better ways to say no, and I learned, and I also learned sneaky ways to say no. 
+
+[Musical interlude]
+
+R: Sara J Chipps has a blog of a girldeveloper.com many thanks for sharing your story with us today.
