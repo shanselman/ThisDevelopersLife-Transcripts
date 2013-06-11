@@ -172,7 +172,7 @@ Scott: Oh I can't even hear you, my friend.
 
 Rob: Right, I suspected. Well you have your squelch dial set precisely because you've seen these things happen. You have the scars. But you don't when you're just getting started, which is kind of what we were talking about before. Doug seems like he is just a bit beyond getting started, he seems like he knows what he's doing. He's been around. But it also sounds like he wants to prove himself. For I don't know, what? Like upper management, a promotion? There's a lot of people that will bend their own wills, they'll do things they don't want to do, flex their family like Doug... in order to succeed.
 
-#### Chad Fowler
+#### Chad Fowler - Part I
 
 Chad Fowler: Alright, I think I'm ready to go.
 
@@ -232,4 +232,190 @@ Rob: Ok, so we have a manager who is *clearly* a bit of a sleazeball. I mean, wh
 
 Chad: I was working as a consultant, and they put me into a dot-com startup. And I wasn't the team lead right away, but I was tapped to be the team lead shortly after. So I walked into the middle of the project, and it was already fully ramped up. I guess they were planning on hiring one or two more people, but it was in full swing. And at first it seemed like a really exciting thing. It was a dating site, an online dating site. And they were starting to do some cool stuff with Flash, and they wanted to do instant messaging inside the web application. Which was fairly new at that point, instant messaging through the web. And then they, you know, we had to do all the stuff with blocking, and you know, making sure that people couldn't harass other people.
 
-(Stopping at 30:53)
+Scott: So, what happened?
+
+Rob: Oh, I suppose it's your typical story in this way. He worked the long hours, slaving over the code and driving his team to produce more and more... burning the midnight oil. Then eventually things came to a head.
+
+Chad: One night, after having been working til 2 or 3 in the morning several nights successively, I came home and my wife was there with my daughter, second child. And she had waited up for me, it was like 3-something, and she was just crying. And she said, "Chad, I can't do it anymore." And that's when I... that put the nail in the coffin. That's when I knew, "Ok, something's not..." I can't make excuses for him anymore.
+
+[Musical interlude]
+
+Rob: You gave reasons, which you had to stick with this cocaine hooker guy. And then you come home and your wife is falling to pieces. I mean that must have been crushing.
+
+Chad: Yeah, you know, because she saw through everything right away. You know, she saw the simple facts. The simple fact is I was staying late for work, this thing wasn't going anywhere it was supposed to be going. You know, all the promises that had been made to me that I turned around and made to her, none of them were coming to fruition. So you know, she saw right through the whole thing.
+
+[Musical interlude]
+
+Chad: And, you know it's tougher when you're right in there, in the middle of it. Because you say, "Well, you know maybe he missed this prediction or maybe he missed that promise, but there's still a lot of potential here. You know, we're getting in on the ground floor, and this is going to be really great, really awesome..." And really, you just lie to yourself. Like you said, Stockholm syndrome. But, yeah, it's another reason why I love having a family. Because it really keeps you honest. There's no lying to the family - you can lie to them all you want, but they see right through it.
+
+[Musical interlude]
+
+Scott: Ok, ouch. I mean I'll give you that, I think we've all been there. We get a little swept up, a little carried away... our families react to it, they pull us back down to earth. We talked about this a little bit last week in [Disconnecting](http://thisdeveloperslife.com/post/1-1-0-disconnecting). Family first. I found when I had kids, just for me - and this is probably why I'll never be a millionaire, and why I'll never be a vice president anywhere - was that as soon as I had kids my sense of career aspirations just stopped. You know, family first, career ninth. That's just how I roll, and more and more I think people realize that that old adage is true. No one ever finds themselves on their death bed saying, "Man I really wish I worked *more*."
+
+Rob: Right, ok so let's bring this back on track. I mean what we're talking about here is, well we started out with the metaphor "squelch dial." But let's maybe put this to where other people can understand it. In Hollywood they say you make your career by the scripts that you turn down. And so it seems like the same thing holds true for our industry. That you have to master the ability to say, "I will not take that project, it is going to flex me too much." And you get to a point wher eyou start understanding that it's more important to turn a project down to keep your family life, your personal life and everything intact. It's much more important. As a matter of fact, Sara - who we just talked about - she talked to Scott Reynolds. Former geek, just like us. He writes for [McSweeney's](http://www.mcsweeneys.net/columns/dream-jobs-that-youre-glad-you-didnt-pursue) now, he doesn't do so much development anymore. And one of the interesting things about him, as opposed to Doug, he seemed to know full well what was happening to him when he was in the deathmarch. He had sort of a presence of mind as, well, this is hopeless. Here, I'll let him tell you.
+
+#### Scott Reynolds
+
+Scott Reynolds: At the time I was living in a very small town, that had really no tech. So I was working part-time at Barnes & Noble in the cafe. And this was after I had been a software developer in Boston for several years. I was employable, there was just no employment. So even afterwards I was still living in that same place, and you know some projects are... they're not gonna happen, but you've got a job so what are you gonna do, right? You just slog through it, even though you know bad stuff is gonna happen. And then you're like, well, maybe I can say "I told you so" to somebody... get a little personal satisfaction out of it.
+
+Sara Chipps: Right, right, "I'm gonna rescue this."
+
+Scott R: So I come in one morning, and he was there. Like his car was there.
+
+Sara: That's a total [Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html) fail.
+
+Rob: Just to catch you up, Scott and Sara are talking about Scott's employer. The guy who wouldn't let Scott use source control, wouldn't let him use C#. Instead telling him to rewrite everything in Access. Oh, and by the way, apologies up front for the sirens. The story's just too good.
+
+Scott R: Yeah, it was...
+
+Sara: A 0 on the Joel Test.
+
+Scott R: Like a -86 on the Joel Test. So I come in one morning and he's there, which is odd because he's a night guy. And he usually does most of his work from, like he'd come in at 4-5 in the afternoon and work through til 6 in the morning, and go home and go to sleep. My interview with him was at 11 o'clock at night.
+
+Sara: Right.
+
+Scott R: That might have, maybe been a red flag. But I was kind of a night owl too, so I was like, "Hey this is cool." So I get there one morning and he's there, at like, you know 9 o'clock in the morning. And so I kinda got that feeling, I was like "This is it, we're done." And so I come in, and he's like "I need to talk to you." I'm like, ok. And he goes, "Yeah, you know, I hired you to fix my accounting stuff." (Ehhh, no you didn't, but ok. Sure, that's what you hired me to do.) "And it's been months and you haven't done it." (Well I have... twice actually, but ok.) "So, you know, I'm just gonna have to let you go." And I was like, "Ok." And he's like, "I'll give you two weeks... or... two paychecks of severence." I was like, "Sweet. See ya later." And so I left him my laptop and I hopped in my car. I didn't have to put my coat on because I already had to wear it at work. And I went home. Took a nap.
+
+Scott Hanselman: That's extremely... I would even say remarkably grounded. I mean, good for him. He's able to recognize that it's just a job, and here's a guy who is able to either turn down scripts or take them with his eyes wide open. And what did you say that he's doing now?
+
+Rob: Um, well I think he quit the Internet basically, and the whole development thing. And now he's writing full-time for McSweeney's.
+
+Scott: Hmm. Well, maybe he didn't handle it so well.
+
+Rob: [laughing] True, I guess I didn't think of that. I mean I bet there's a number of ex-developers out there that, well, cracked for lack of a better word. I mean I'm not saying Scott did. But the pool is thinned because of it. Chad Fowler handled his situation pretty well. You remember his story about being an impostor. Well it turns out that he worked for a guy who was a pretty charismatic character. He did all the things that a cultish-style leader would do. Picking favorites, and a militaristic leadership style, and so on. And then comes the day when Chad's had enough.
+
+[Musical interlude]
+
+#### Chad Fowler - Part 2
+
+Chad: Like, your dad wants you to join the family business and run it. And you have no interest in running a dry cleaner, and finally you have to tell him. That's kind of the way I felt to let this guy know. And the funny thing is, the conversation where I let him know... at the time I was actually a couple of layers down the chain of command from him, doing a specific project. And it normally wouldn't have been him that I would have told. You know if I kind of followed the normal corporate chain of command when I was ready to leave. But, one day he sort of unexpectedly called me into his office because another one of the leaders was being transferred out of the organization, and he was basically offering me suddenly a big promotion and a position on his direct staff. Which is exactly the direction I'd been trying to go for years. And it was in that conversation that I had to say, "I can't do that because I'm gonna leave the company."
+
+So the way I felt when I left was actually at first just very emotional. Not negative or positive. I think by the time I got home I was absolutely comfortable with the decision. It's one of those funny things that I had felt sort of trapped for a long time. Trapped, you know, by my own devices. And as soon as I realized that I could un-trap myself, I was no longer worried. Um, for one thing I knew I had left on good terms. I hadn't even left yet, but I knew I was leaving on good terms. I had seen people leave this organization and come back, so I knew that was an option. But I didn't expect that to happen. What I expected to happen was that I would go out into the quote-unquote "real world" - try what it's like to be in a smaller, maybe faster-moving, more agile organization. I don't know why, but the moment when I broke the chains in this one organization was the moment that I realized that I wasn't an impostor.
+
+[Musical interlude]
+
+Rob: I can identify with that. I felt for the longest time that I was just a geologist who could code. It wasn't until a few years ago, I guess maybe when I got a job at Microsoft, that I stopped feeling that way. I mean, look what Chad's doing now. He's a prominent figure in the Ruby community, organizing conferences, appearing on awesome, derivative podcasts like this one...
+
+Scott: Yeah, like this one. Certainly he should have turned this script down, if he's talking to us. We've had some interesting stories this week, right? Doug talks about proving himself, while bonding with his peers working on a project from hell. Chad comes of age as it were, starts to believe in himself more, in his abilities. You know, a trial by fire forces him to confront his boss and exit on his own terms. And Scott Reynolds, he knows what's happening to him. He knows it's just a job. He collects a paycheck, again, on his own terms. Goes home, takes a nap. Not sure where this leaves us, other than a little bit depressed.
+
+Rob: Well I think one thing we can say - and this might be an overly stereotypical male thing to say - but in a way, well I mean a deathmarch is a proving tool. It's a strenghtening tool. It's like a, geek...
+
+Scott: No, you are defined by your failures in life. Not by your successes. I remember getting a resume from a guy who put his name, and then comma, MCSD Microsoft-certified this and that. And the commas, and the all-caps, and the commas and the acronyms went on and on and on. And I wrote a blog post about this, saying we should put the number of failed projects, right? I want to see Rob Conery, comma, eight failed projects, two successes. And that tells me this is a guy, or gal, who has suffered. And with that suffering comes wisdom and introspection.
+
+Rob: What do you think about, as you move through your career, that... you know, in the beginning as we keep saying, you don't know the projects that are coming to you. So you're being more apt to take the deathmarch. But as you move on, those deathmarches become *bigger*. In other words, the bad scripts that you receive become worse. But then once in a while, you're going to have to take one. I mean, you're going to have to put more skin in the game if you want to succeed, if you want to become the CTO. What do you think of that?
+
+Scott: Mmhmm. Yeah, absolutely. Just like in Hollywood, using the script metaphor, it's about the scripts you don't take that make your career. But sometimes the trick in reading the script is, "Well who's directing it? And what's it gonna bring me?" And, you know sometimes you have to do a Jersey Girl, if you're going to get The Town or something like that. You do a bad film and it makes you grow, and then you move on to the next thing. I mean I might, if I was offered a job at Twitter or Facebook, go on a deathmarch. Just for the building, the character building as my dad used to say. This is character building, like all through Karate Kid... all that wax-on/wax-off, that was character building type stuff. And as you get older, you get better at selecting those scripts. But you know, there's always a shark out there ready to be jumped. You remember this in Happy Days, right? You're the Fonz, it's the 70s, everyone loves you... and then you read a script where you get to waterski over a shark. And this is where the term "jumping the shark" comes from, right? There's nothing left to do... Happy Days, the Fonz, it's the number one show on TV. "What are we gonna do now? Let's jump a shark." And the whole thing went to hell after that.
+
+Rob: [laughing] That's just something that *screams* no. I mean, Fonzie? Waterskiing? A shark? I mean, yeah. I would look at that script and I would think, "No." In blaring, bold, red letters. But then again, I mean it's not like I'm a stranger to situations that are nothing but, well, horrible. And I do it anyway. Remember this story?
+
+Rob: [from a previously recorded interview] I could have avoided all this. I know that. This is probably the worst part of the whole thing for me. I knew it the very first meeting. I knew it the first month, second month... first week through the twelfth. I knew it the entire time. But I kept believing in myself.
+
+[Musical interlude]
+
+Rob: That happened to me, actually quite recently. And I kinda feel like I'm old enough to know better.
+
+Scott: So you're... you're Fonzie.
+
+Rob: More like Potsie. I mean, now that would have been funny. Can you imagine Potsie jumping the shark and getting eaten? I mean, that would have been the better script. But anyway, it's the same thing with me.
+
+Scott: Right, so here's the thing. You're saying someone should have told Henry Winkler, "Don't jump that shark." And here you are, jumping the shark right? It's always the guy who quits smoking who tells the people, "You need to stop smoking." Nothing worse than a reformed... shark-jumper.
+
+Rob: Alright, I can't hide from this one. It was professional shark-jump right there. And you're absolutely right. But I didn't do it because there was nothing left to do. It's not like I did all the things and all of a sudden, "Well hey, now I gotta go do this really stupid project that I know I'm gonna get fired from." I did it for all the reasons that we kinda talked about earlier. Friendship, money... I mean for all the reasons I knew it would fail, I sincerely felt that I could make it work. Specifically because of my experience... ah, but really it was mostly money.
+
+Scott: Ah, and there it is, right? Ok, let's spin it this way. It happens tomorrow, not in the past. Is this something you would look at, and remember vividly what happened to you? Or are you gonna go and ignore it ever happened, and then just plow forward?
+
+Rob: Oh I'll remember. And no, it will never... I'll never do that again. I mean I will seriously go get a job as a bartender down the street at the gourmet before I go against my instincts. Or in keeping with our analogy here, dialing down my squelch button or accepting a really bad script... that shark has been jumped, my friend.
+
+Scott: I still find it curious that you would even make a mistake like that in the first place. I mean, they put you up against offshore developers. They pay you a rate that's way below what you should be making. They totally make it clear to you that their ability to manage the client and their own process is going to be a problem. It doesn't get much clearer to me. And Sara too... it sounds to me like it was the same person, right? Sara said no and you're like, "Eh, sure why not?" Alright I'll tell you what, I have another theory. You like being boiled quickly. You want to be thrown into boiling hot water. You think that's fun. You are a risk-taker - you know you said yourself - you like the startup scene. You left the... Microsoft, and what did you do? You started... up.
+
+Rob: Yup, I jumped onto a startup shark.
+
+Scott: Very risky. And I remember telling you that was stupid. I remember telling you... actually you told me you cashed in your 401k to do this, is that true?
+
+Rob: Yep, I sure did.
+
+Scott: And now, I can see you ending up in a story like this. You hired someone to do [Tekpub](http://tekpub.com/) with you, you're... running around the office with hookers, and you're doing coke off the desk... presumably on a Macintosh...
+
+[laughter]
+
+Scott: And in other words, when you risk that much - you, Rob, are now the unstable weird manager guy. Have you become that guy?
+
+Rob: Well, jeez. [laughs] Well, I mean sometimes I feel that way. Sure, ok I'll admit it. I mean I think I definitely have seen... I mean let's just say I'm understanding more where these guys come from ok? I mean I have a lot of skin in the game now. And yeah, if you took me from 10 years ago and made me work for me right now, yeah I might think I'm a bit off my rocker, sure.
+
+Scott: So this is a risk/reward thing, right? You and I can sit here and get all kind of "alpha geek warrior" and talk about scars, and get all chest-thumpy. But at the end of the day, right, this is self-inflicted deathmarching. Right?
+
+Rob: Yeah.
+
+Scott: You have decided to do this, and you're gonna go for it. It's almost like you're one of these old guys in The Expendables, you know. "All I know how to do is go to war," you know, and there's a... "We're going to Grenada everybody!" It's totally self-inflicted.
+
+Rob: I've... you know I've thought about that. And yeah, I think a bit of it is absolutely self-inflicted. I mean here's an analogy that always seems to work for me. Surfing. It parallels life in a lot of ways, right? All these variables in the water - wind, water, wave, everything - stacking up to present you a wave that you get to ride on top of. The wave changes shape every single second you're on it. The wind changes directions, changes speeds... you have to adjust as you go. Much like life. Now some people love to ride the bigger waves. Because the variables, well they get more intense right? Bigger variables, more choices, bigger consequences (like dying). Others enjoy the more mellow ride on smaller waves. So, it's like in life. Risk/reward as we've been saying. But in a lot of ways, the guys that ride those big waves, they are *driven* to do it. A lot of them would say it's not really a choice for them.
+
+Scott: Sure, sure. And I'm more of a doggie paddle type of a guy. But I'll get there. I'll doggie paddle for 15 years but I will make it. You're saying some people are more prone to take deathmarch projects - it's just like an adrenaline junky. There's a bigger risk to themselves and to their career.
+
+Rob: Yeah. Well, ok, right. Remember Alex? Listen to this, listen to his pitch here.
+
+Alex Payne: Every time I've gone in search of a new one, I've found a slightly even crazier idea to pursue. I mean, with [BankSimple](https://www.simple.com/) it's basically, "Let's go out and fix banking." I mean, that's... it's kinda nuts when you think about it. Our creative director is fond of saying that there's something kind of punk rock about starting a bank, because it seems really fundamental. It's like a hospital or a school or... you know, something in your community that seems like this bedrock that's always been there. You know, you don't really think about somebody actually going out and starting it. So the idea of, you know, going and planting this seed yourself is weird.
+
+Rob: So let's pretend you don't know who Alex Payne is. Would you ever in a million years leave Microsoft to work for some guy who says to you, "We're gonna reinvent banking, come along with us?"
+
+Scott: Eh, that's... that's not really in my DNA.
+
+Rob: Right. Well I mean I probably wouldn't either. But at the same time, I mean Alex just came from a service that, on the face of it... well it's not terribly inspiring if you think about it. And I'm talking about Twitter. I mean an SMS service for friends, really? I mean isn't that Facebook, or... I don't know, I mean do we really need that kinda thing?
+
+Scott: No, I mean you have a point. I mean I was... I'm all about Twitter. But I was one of the people who thought it would be... well, nothing. I didn't think it'd become *Twitter*.
+
+Rob: Me neither.
+
+Scott: I was like, "Oh tiny blogging? Wow. Constrain it to the point of uselessness?" Yeah, I would bet against Twitter every time.
+
+Rob: Right. And for all the people that we've interviewed talking about deathmarches, I have to think, well there's some percentage of people who *think* they're in a deathmarch, only to find out that *boom*. Well it's a big deal, it's Twitter.
+
+Scott: Mmm, there's a show.
+
+Rob: Yeah, I think you're right. Let's see, The Deathmarch That Could... I mean what would we call that?
+
+Scott: I like one-word names, I like what we've got going here. Maybe like, The Long Shot or just Long Shot.
+
+Rob: Yeah. Alright, you got it. Well let's come back to this week. I think we learned something here.
+
+Scott: Ok, well we came into this initially just asking people about the worst project they've been in on. The idea was to collect stories of deathmarches. And I think we just assume that these projects just exist, and it's just a given they would never succeed. I mean deathmarches never go anywhere, that's why it's a deathmarch and not a lifemarch.
+
+Rob: Right, and I think what's closer to the truth here is that these projects are just higher risk. I mean sometimes with ideas that are so out there that we as developers... well we can't identify, we can't see how it could possibly succeed. So we just say it's a deathmarch. The bigger the risk, the crazier the PM has to be to push the idea forward, the more we say, "This is a deathmarch."
+
+Scott: Are you saying that there's no such thing as an actual deathmarch?
+
+Rob: I think I am, yeah. Because, I mean every deathmarch has a chance of succeeding, no matter how small. I've seen it happen. I mean I'm sure you have too. A project you were certain wouldn't succeed, and guess what?
+
+Scott: Twitter. Facebook. Amazon.
+
+Rob: Yep. Groupon. Yep. A ton... GitHub. Any of the big sites out there, you never know. Maybe the project you're on right now. Now it seems utterly mind-numbing, horribly boring... I mean it could be the next Facebook.
+
+Scott: [laughing] Ok, let's keep it real right? I've seen The Social Network. The odds against that are pretty high.
+
+Rob: Yeah, you could be right. But hey did I ever tell you that I had an idea about a podcast? Where we talk to people, play some music, rip off NPR, This American Life... but it's for *developers*.
+
+Scott: Dude, could we do it all in GarageBand, on a Mac? And then pick music that is like creative commons?
+
+[Music begins playing in the background]
+
+Rob: Oh yeah, let's do that.
+
+Scott: Can we just read the sponsor list now?
+
+Rob: Not until you admit that I have a good idea with this podcast. Come on. Come on!
+
+Scott: Ok wait a second, what is this here in the background? Are you seriously playing Lady Gaga?
+
+Rob: You know it.
+
+Scott: You *know* I would never have been on this show if you were going to dub in Lady Gaga. I would... oh, my head, this is hurting my ears.
+
+Rob: [with deep voice effect] Please, make it stop. Where's the volume?
+
+[Music plays louder]
+
+Sara Chipps: Hope you enjoyed this week's This Developer's Life. And to remind you, we couldn't do this without [Twilio](http://www.twilio.com/) and [Sublime SVN](http://www.sublimesvn.com/). They're helping us pay for things like bandwidth and production tools, so we can continue creating awesomeness for you. Please check them out at twilio.com and sublimesvn.com, if only to say thanks for supporting this podcast.
+
+Rob: [deep voice effect] This show is starting to feel like a deathmarch...
+
+[Music plays and fades out]
