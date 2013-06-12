@@ -2,9 +2,9 @@
 
 
 Featuring:
-	* Dave Nielsen
-	* Tom Preston-Werner
-	* Nate and Niki Kohari
+	-Dave Nielsen
+	-Tom Preston-Werner
+	-Nate and Niki Kohari
 
 #### Opening: 
 
@@ -54,7 +54,7 @@ Scott:  Alright now, that was three interesting segments, but that first segment
 
 Rob:  Ha ha, that's my friend Dave Nielsen.  Serial entrepreneur with about five different projects going all at once.  Did you ever see that movie, "Rushmore"?
 
-Scott:  Of course, of course.  This is the movie that actually made Jason Schwartzman's career.  Who, you know, we've seen him in everyhing.  He's in iPad and New Yorker advertisments, and he's on TV all the time.  And in the movie, his character, he's this high school kid.  But that he wants to be involved in everything.  
+Scott:  Of course, of course.  This is the movie that actually made Jason Schwartzman's career.  Who, you know, we've seen him in everything.  He's in iPad and New Yorker advertisments, and he's on TV all the time.  And in the movie, his character, he's this high school kid.  But that he wants to be involved in everything.  
 
 Rob:  Yep
 
@@ -121,33 +121,34 @@ Rob:  You got that right.
 
 [Musical Interlude]
 
-Dave:  I thoroughly enjoy working for myself and the freedom and the creativity, but it, if, if the right type of project or company came along that just seemed really cool, umm, you know, or fit in with what I want to accomplish in life, I certainly have no, uh, problem with that.  It's not the fact that i want to work for myself that drives me, it's that I want to do something that I enjoy and that I'm passionate about.  And unless a company comes along that has a job and a product and a service that I feel passionate about, then, uh, I probably won't take it.  You know if there was some technology that I felt very confident in, something around cloud computing or web services, that I thought was an incredible opportunity to make a big difference in the developer community, which is the community that I care alot about.  Uh, or, you know, maybe just the general public, umm, I'd consider it.  You know, it'd have to something pretty innovative and game-changing. Uhm, I would really, I, I can't imagine myself just working for a company that's done the same thing for the last ten years.  
+Dave:  I thoroughly enjoy working for myself and the freedom and the creativity, but it, if, if the right type of project or company came along that just seemed really cool, umm, you know, or fit in with what I want to accomplish in life, I certainly have no, uh, problem with that.  It's not the fact that i want to work for myself that drives me, it's that I want to do something that I enjoy and that I'm passionate about.  And unless a company comes along that has a job and a product and a service that I feel passionate about, then, uh, I probably won't take it.  You know if there was some technology that I felt very confident in, something around cloud computing or web services, that I thought was an incredible opportunity to make a big difference in the developer community, which is the community that I care alot about.  Uh, or, you know, maybe just the general public, umm, I'd consider it.  You know, it'd have to something pretty innovative and game-changing. Uhm, I would really, I, I can't imagine myself working for a company that's just doing the same thing it's been for ten years.  That's just, I can't imagine that.  It doesn't keep my attention.  I think I'd be bad at it.  Uh, that's probably the number one thing is I don't want to be bad at what I do, and if I'm not inspired by the work, I probably will not do it well.
 
+Dave:  It's kinda like Microsoft has never really, even Google today, I live in Mountain View, I've been invited to interview for jobs at Google and at this point, it just seems like such a big company, I just feel like I'd be lost and I don't, I don't know if I'd have much of an impact unless I found the exact, right position there.  Uhm, and even then, it just, it doesn't feel like I'd be making much of a change or a difference, so, umm... yeah, I think I'm, I'm not a, I'm not a nine-to-fiver, now once I have kids maybe that will change a little bit, I don't know, but up until now, my priorities have always been about trying to find something that was, uh, unique or valuable and need, needed, and just needed to be out there, and people needed to learn about it.  It really depends, because right now, I'm doing quite well at what I'm doing, and I think it's uh, you know, they'd have to have a pretty powerful, uh, incentive for me to leave that, so.  But I think it's really important, I once learned that you need to be able to walk away from anything, umm, otherwise you just don't know if you're getting a good deal, and I think, you know, that, that mostly applies to like when you're buying a car, or, you know, or, any important purchase decision you make.  If you cannot walk away from it the seller will smell blood and just take you for all you're worth, and I think it's the same way with a job, or you know, anything that's, that's not family, or you know, life critical.  You need to be able to walk away, and I, I, I feel that even about what I'm doing right now with Cloud Camp.  I really enjoy doing it, and it's, it's a lot of fun, and I think I'm helping alot of people learn about this important technology, and game, or life-changing technolgy in some cases.  But, umm, it's, it's not the only thing I would enjoy doing.
 
-[13:34]
+Dave:  Would I rather be more successful, but have very little control over my destiny? And therefore, uhh, not feel that it was my own?  Or would I rather be, have more risk and therefore have a greater chance of not being as successful, but having made that path myself?  And the latter is certainly much more appealing to me.  Uh, as long as I can put bread on the table and, umm, you know, not stress myself out too much.    
 
+[Musical Interlude]
 
+Scott:  Okay now, this is confusing me... ehh, this guy cannot possibly be married. I mean, how would this work out in a relationship?
 
+Rob:  Ahh, it takes a wife who's patient, who's understanding, who's willing to go along with the ride to watch you fulfill your passions and so on.  But still, it's a good question, I mean, I uh, asked Dave directly, "How do you get away with this?".  
 
+Dave: Yeah, well, it's a good question.  I ask myself that sometimes, in fact, my wife asks me that as well. [laughs]  Uhh, cuz, umm, she tells her friends about our, uh, check, our checking account, uh, ups and downs, and, and they really get nervous because it certainly goes, uhh, it goes pretty crazy.  Crazily close to, uhh, you know,  not being able to make payments, which fortunately to this day, I've always made our mortgage payment, but I've missed some other things, that's for sure.  
 
+Scott:  Okay, well this is a little beyond, uhh, what I think I would put up with.
 
+Rob: I, totally, right, there's no way I could do that either.
 
+Scott:  Well, really?  Don't make me go to the archives.  I, you know, you said for yourself, you like the start-up scene, you left the uhh, Microsoft, and what did you do? You started, up, very risky.  And I remember telling you, "That was stupid.".  Yesterday you told me that you cashed in your 401(K) to do this.  Is that true?
 
+Rob:  [laughing]  Good one... good one.  Well...
 
+Scott:  Bazinga!
 
+Rob:  Yeah, okay, well, you know, alright, fair enough.  But I don't think I'm gonna end up homeless.  I mean, I don't think I'd go that far. Ahh, you know what? In fairness, Dave wouldn't either. 
 
+Dave:  I, I knew that things would turn around for me, I knew it. It was, I really didn't fear that this was a permanent situation, but it certainly helped me undestand what, what people might go through who have no opportunity or way out.  And uhh, you know, you find a, you get creative.  And unfortunately, some of those creative options start becoming normal.  And I think that's when people start spiraling down is, is, they start feeling that it's normal to live in these unusual, street-like situations.  And it, you know, thankfully, I never got comfortable with it, but if you did, I could imagine somebody saying, "Hey, this isn't so bad, I could do this.".  But, I couldn't, I couldn't do it.  One of the smartest things I ever learned from anyone else was, one of them was from my dad who was also an entrepreneur, and, but he didn't know when to say, "Stop", and so he always worked for himself, and I think he had some difficult times that he'd perhaps, he didn't really need to, uhh, go through. And he died young of cancer, and I don't know if that led to it or not, but, you know, maybe it did.  I think he led his life that was more stressful than it needed to be.  And so that's part of the reason why I ended up taking a job at PayPal, is that, I was going through a stressful time, and it was a good opportunity to, to relieve some of that stress.  And it turned out to be a great move to meet new people, and it was a good time for, in the company as well, so I benefitted from that.  I think that was a good lesson.  And another lesson I learned was, especially when you are young, get paid to learn.  There's a lot of opportunities when you are young, where you have a fresh outlook, you have kind of a clean slate, and there are people who are wiling to invest in you, to get you to learn whatever it is that they need you to do.  And they will pay you to work while you learn.  
 
+Rob:  Many thanks to my good friend, Dave Nielsen, for sharing the ups and downs of his professional career.  And, if you want to know more about what he's doing, go check him out... CloudCamp.org.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+[20:24]
