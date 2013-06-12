@@ -161,4 +161,90 @@ Oren Eini : My clients think to pick me, mostly from the blog. I am known quanti
 
 I think that is what happen. Because for most part this is not happen random. People are actually selecting me because they started going to argue for. 
 
-R: For listener in audience who don't have any idea who is Ayende Rahine is? He is prominent blogger. He is quite a young guy leaves in Israel. He is fairly opinionated. And he is prolific with his blog post. Not only in the quantity of post he writes but also in depth and the quality. You have to look preety hard to find a guy well as verse in Microsoft Technology as Ayende is. He is hired by Microsoft to come in and critic their efforts. And hired by government and all kind of folks to come in and help out. So, Ayende says when people seek him out he is telling the exact truth but Oren has not been fired. I actually found  to be a little  bit amusing, when you spend anytime talking to Oren. You found out quickly that he is a passionate guy. And not only that but he is quite forth right. Like someone says on your face 
+R: For listener in audience who don't have any idea who is Ayende Rahine is? He is prominent blogger. He is quite a young guy leaves in Israel. He is fairly opinionated. And he is prolific with his blog post. Not only in the quantity of post he writes but also in depth and the quality. You have to look preety hard to find a guy well as well verse in Microsoft Technology as Ayende is. He is hired by Microsoft to come in and critic their efforts. And hired by government and all kind of folks to come in and help out. So, Ayende says when people seek him out he is telling the exact truth but Oren has not been fired. Which I actually found  to be a little  bit amusing, when you spend anytime talking to Oren. You found out quickly that he is a passionate guy. And not only that but he is quite forth right. Like someone says on your face with his beliefs to the point where he doesn't care who is talking to could be client, manager whatever. He is going to tell his opinion which to me seems like the perfect set of ingredients to be shown the door. Turns out that it never happened that way. 
+
+O: I would question why getting fired at such a high priority. Let me tell a story from while ago. I spent four years in prison. That palls for the listeners to their horrified expression. I really, I really like to see that kind of expression, specially in job interviews. Its fun. 
+
+I spent four years as prison commander. Well every team from the prison guard to a prison commander. And I really didn't like that. You know prison is really really depressing?!!! Even if you on the side of you can walk out of the door at any time. The problem is part of my army service. Well I could walk out of the door for smoke or a cafeteria stuff like that. I couldn't mentally just walk out. I couldn't harmonize ignition and couldn't just walk away.
+
+[Musical interlude]
+
+O: After four years. It came that you can walk away stuff... Do you know what was my main criteria for finally civilian job? Any thing that I can work away if it not present. And in 2008 I had various personal project and I went to my senior. See I am not ever going to use this technology. It is too painful. And he say no we made strategic decision that all of our project going to use this technology. In that case my strategic decision is to avoid pain... Good Bye.
+
+A month later I offer my own part. And that was something, incredibly important to me. Before I was able to walk away from the situation that is painful. Painful from all perspective because that software was crap. That means that I was saying in the end you probably work with some piece of software that incredibly frustrating. Being fired usually is a indication that I am avoiding pain some sort of pain.Now I have people tell me ok, we had ok, we had done. Ok fine this is your pay check. And we wont meet again. I couldn't emphasize that how this means important to my mental health. To really just walk out. 
+
+A lot things I was doing. Done explicitly in a way that they will be able to that they have choice of doing X or Y if they wanted to.
+
+[Musical interlude]
+
+R: You can read about Oren Eini and his musings on life on his blog. [http://ayende.com/blog](http://ayende.com/blog)
+
+[Musical interlude]
+
+R: Next step is my turn. And I think I could share a story with you. I decided to end title of koyote contract. What happens when you get into situation working on a contract where there is no way out. Except but cut of your own hand.
+
+[Musical interlude]
+
+R: While back I picked up a contract based on recommendation of good friend. Was really good company that he recommended, in turn he recommended me to them. And don't normally like to work with friends. Well, however I worked with this person before. And I really like him and worked we had done together. Its more over technology I really thought I need and I need to work more over it. And finally one of the main reason of doing stuff like this is I needed the money.  So, we came together one day and set down. Do the meeting and I got to meet people my friend work with. The meeting was went pretty well for the most part, except from two main  things. I was just stuck at the side in my head if you will. 
+
+The first he describe the project to me. They told me about main bit of intellectual property, IP as they say, with what I ll working with. It is sort of core of entire site. The algorithm as we called it. And I said well it sounds out standing. Sounds like really interesting thing. I can't really wait to actually throw some data and get it to work. And they say actually you are gone a be working with it. And I said oh great, I sign in NDA. When we I get to do? Its exiting. They say, NO you don't understand. You are building it. 
+
+[Musical interlude]
+
+R: I remember at the time thinking, this is the IP of your client's project and I am going to build it??!!! Ok, well. Hmmmm I can probably do that. Well I don't know C++(C plus plus) and some other deeper languages I need to complete this. But if you give me the specs I ll do what I can. And they say NO you dont understand. You are going build it entirely. 
+
+[Musical interlude]
+
+R: I realized that at that point probably I should have shaken hands and got up and walk away. 
+
+[Musical interlude]
+
+R: Well, I decided I misunderstood something. Lets just move on. The idea is sort of stuck in my head like bit of splinter. But then I decided why not, lets move on. 
+
+The next conversation was with the business person who arrange the contracts at the company. And person said to me first thing forbade, its very nice to meet you. That you should realize that we were going to out source your position and I am hopping your that rates will be commends rate with something I could find off shore somewhere. Is that going to be problem for you? 
+
+[Musical interlude]
+
+R: You know, Believe it or not. I am use to this cheese bombs from whenever from companies. It does happens. So, instead of discussing what I usually do. I said look I work within your budget. I prefer not to do an hourly thing. Mostly base things on delivery of scope. So, I was sure I can come to interview on scope. Normally I would walk away from this job. I would walked away in seconds. But I didn't. Because of this three factors. A friend of mine with whom I wanted to work with, I needed the money and this is some fine technology I wanted to work with.  So, I said my that I can figure this out. I can figure this out. 
+
+[Musical interlude]
+
+R: Oh boy with the details you can probably fill in the gaps. When you got to work with the project manager from 1998, you know the guys came in to all dot come boom from fortune 50 companies. Thinking of that because they could run IT or another group with a small bit of technical discipline they could tackle start up life and software development. 
+
+I got the 5 PM Friday calls, demo on Monday. All by the way I need you to add these 5 pieces to scope and I trust  you can complete them. This you know, I need this buddy. 
+
+[Musical interlude]
+
+R: They refuse to talk to their own client. I said every time we talk our client they add scope to the work. If we talk to them they add scope and then we gonna add on to yours. You want that to happen??? Neither do I??? Right !!!
+
+[Musical interlude]
+
+R: So, finally you got to the point where I did the only thing, that was possible. Because scope was changing  to point where it kind of life of its own. And we all deal with creeping scope. And I am a professional, I manage these things. It wasn't a matter of saying hey listen Mr.Client person, you can have this and that. And starting to talk about time. We can even getting more agile. They were running project, I was just a developer. They were also creating the IP. 
+
+Was a not good place to be, and I knew it, I knew it the entire time. But call it pride, call it desire, call it whatever you will. I decided I stick to this through. I kept thinking to my self; look you were doing this from twenty plus years, you should be able to fix this ship that is sinking. You should be able to right this and make all happen.
+
+Well lets call that pride. I thought I could do it. I clearly could not. 
+
+[Musical interlude]
+
+R: So, I though well, see if they can settle up for this first bit of scope of that contract I wrote. So, I send him a letter and said hey, could we see could settle up this scope and then move on. Its been three and half months. 
+
+They said with no politeness; sure what you think is finished? 
+
+And so I lay down a long list. I realized, yaiks!!! there is a lot of things that I did do that weren't in the scope. Its a lot of things that I did do that got run away. I realized exactly where this discussion is gonna go. And I was right when they came back decided to settle on their own terms. Decided to give me half and I took it. I said ok. I just wanna out. 
+
+[Musical interlude]
+
+R: I could have avoided whole this. I know that. This probably the worst part of the whole thing for me. I knew it at very first meeting. I knew it First month, second month, first week throw the twelve. I knew the entire time but I kept believing in my self. Call that pride if you will. Call that hubris. May be I was being arrogant. May be I felt like I could do more than possible I could. But I kept feeling that I had the number of years of experience that I could put that to use and I could deliver against all odds. It is something that I prided my self doing for a long time. And in this case I lost. It was very bitter pill to swallow. Financially and otherwise. But I took the financial hit as penalty, penalty for not walking when I should have. 
+
+Someone say - isn't kind of penalty for believing in your self? Ya, it could be. I see as a penalty of being little bit too proud. 
+
+[Musical interlude]
+
+----
+
+R: This pod cast is brought to you today by Tekpub. Where you can find developer screen cast for developers like you and me.  Where you learn stuff like JQuery, Sinatra, Rails, Asp.Net MVC, Entity Framework, Silver light, Threading on and on. Get over to tekpub, it is simply monthly membership, all you can stream. And pay for only to download videos. 
+
+My name is Rob Conery and this has been this developer's life semi regular pod cast. Basically means whatever I can get it to it. Thank you for listening. 
+
+[Musical interlude]
