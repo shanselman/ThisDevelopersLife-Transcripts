@@ -1,4 +1,4 @@
-### 1.0.6: Abstractions
+### 1.0.6: Abstraction
 
 #### Introduction
 
