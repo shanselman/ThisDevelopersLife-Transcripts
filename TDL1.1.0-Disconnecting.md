@@ -99,3 +99,23 @@ Hey is that some kind of fort or... what are we doing?
 
 [Musical Interlude]
 
+[Sounds of pounding rain]
+
+**Rob** Do you guys see how much it's raining outside?  Wow!  Oh here it comes again.  I.. cannot see.. I mean I can see the road.  But it's like, yea it's really good.  I can see the road, but it's like a haze or a fog covering the surface of the road and it's just splashing water.  And I'm driving at night.  I don't normally drive at night.  There's no street lights here, so it's pitch black.  It is really loud.  Now it's coming down again.  Wow! Man!  It's really trippy being on the road.  What do you think Rubes?
+
+**Ruby** WHOA!  IT'S RAINING!  THUNDER AND LIGHTNING, YAY!
+
+**Rob** What do you think the thunder and lightning do?
+
+**Ruby** Bad stuff.
+
+**Rob** Bad stuff?
+
+[Musical Interlude]
+
+**Rob** In case you're wondering, don't worry I had my recorder sitting right next to me, I wasn't holding it, so I wasn't in any danger, but man that rain storm was insane!  I live on the north side of Kaua`I which is an island in the Pacific Ocean, in the state of Hawaii and it rains here an awful lot.  In fact, we hold the record for most rainfall anywhere.  It's the wettest place anywhere in the world.  When it rains, man my kids _love it_.  And we go outside, or they go outside sometimes in their bathing suits and just run around.  Well this happened to be a tropical storm with lots of thunder and lightning.  So it was pretty fun to experience that with my kids.  But right before the storm hit, we had a period of calm and it was great because, well, I got to go out and experience the coast line in a way that I haven't for a really long time.
+
+I'm here at the Kilauea lighthouse.  I have an hour to kill, my kids are at an art class that they take after school one day per week.  So I have an hour to kill, and this is hard because I'm used to working.  I'm not used to just stopping in the middle of the day and it's frustrating but I'm trying to fill it with something.  And I remember just sitting there trying to think of what to do.  It's a whole hour, plus, that I have to wait.  It's like three o clock in the afternoon and I'm stressing out thinking like I gotta go back and uhh, I gotta go back at like four something and then work until five something and then I gotta make dinner.  That's not easy but I'll tell you what, sitting here, looking at the blue ocean, if you ever come Kaua'I, make sure you come to Kilauea, to the lighthouse right here at the end of the road looking over the blue water.  There is no wind today.  And there's whales!  There are like 4 or 5 whales.  I see them cruising around out there and blowing their spouts.  Feeling the sun.  Hearing the people quietly talk that are out here on vacation, not thinking about work.  It's sort of pulling my head out of it.  It's pretty difficult.
+
+[Musical Interlude]
+
