@@ -147,3 +147,129 @@ I don't know if you can hear the kids in the background.  I think that the pirat
 
 [Musical Interlude]
 
+**Scott**: So we're sitting here at Disney Land, on the terrace having lunch, and where are we? Tomorrowland.  How are you mommy?
+
+**Mo**: Good.  Not as full, but other than that, doing alright.
+
+**Scott**: I've decided.. I just had a moment of zen, mommy; I don't ever want to work again.  Is that okay?
+
+**Mo**: [giggling] That's great!  Where's our pot of gold that will facilitate that? [laughing]
+
+**Scott**: So you're fully supportive of me never working again?  Can we stay at Disney Land always?
+
+**Mo**: Let's do it!  We can move in with Mickey and Minnie. [laughing]
+
+**Child older**: I want to live in Mickey's house.  I want to live in Mickey's house with Mickey!
+
+**Scott**: Where do you want to live?
+
+**Child younger**: I wanna live in.. Minnie, Minnie Mouse house.
+
+**Scott**: Do you want Daddy to never work again?
+
+**Child younger**: mm MM.
+
+**Scott**: Hey, what do I do?  What is my job?
+
+**Child younger**: To sing.
+
+**Scott**: To sing?
+
+**Child younger**: [giggling] Yes!
+
+**Scott**: Okay?  Is that what I do every day in my office?
+
+**Child younger**: Yes!
+
+**Scott**: Okay, good bye. [giggling]
+
+[Musical Interlude]
+
+**Scott**: It seemed to me that Disney Land was about as disconnected as we could get.  It's disconnected from reality.  It's disconnected from the internet and it's a total fantasy world.  It's completely not our house, not our office and by going to Disney Land that would let me disconnect and let the boys disconnect from school and the wife not thinking about having to maintain the house and the hard work that she does.  We would just disappear.
+
+[Musical Interlude]
+
+**Scott**: So we're back.  We're back from Disney Land and I thought it went okay.  It went well.  I left my phone a couple of times.  I just left it.  It's just easier.  If you've got a drug and you can't get to the drug, leave the drug, or don't make it available to yourself.  That seems to be a reasonable thing to do.  The wife was reasonably happy with how things went and I sat down with her.  We did a post mortem.  How did the trip go?
+
+[giggling] Are you done?
+
+**Mo**: It's fine.
+
+**Scott**: No it has to be in your face.  I'm telling you.  I've done this before.
+
+[both laughing]
+
+**Mo**: Can you and Rob do a show on the problems of recording your spouse?
+
+**Scott**: Is this the part where you tell me how to record?  Are you busy?  Do you have somewhere to go?  You just looked at your watch.
+
+**Mo**: Yes.
+
+**Scott**: Where are you going?
+
+**Mo**: I want to move on to other things.  Can we do this?  [both giggling] Are we on?
+
+**Scott**: Yes.
+
+**Mo**: Tell me what I'm recording.
+
+**Scott**: How come you're always mad at me when you talk about, stop tweeting?
+
+**Mo**: You know you tweet like way too much, right?
+
+**Scott**: I mean, what is too much though?
+
+**Mo**: Well I'm sorry, you sneezed.  Ahh choo.  Just sneezed, let the world know.  Way too much, over the top.
+
+**Scott**: What is a reasonable amount of tweeting?
+
+**Mo**: Ohh heaven's sake.  If you have something value to add to the life of people, right?  They don't need to know that, you know "wife made mac and cheese again".
+
+**Scott**: Have you ever read my twitter?
+
+**Mo**: No.
+
+**Scott**: So you know I don't talk about those things?
+
+**Mo**: Most of the time you don't, it's true.
+
+**Scott**: Do you think I have trouble with disconnecting and if so, tell me about me not disconnecting.
+
+**Mo**: Well I think you're working on this right?  Because we've fought about it and talked about it quite a bit.  It's the whole idea of saying whenever I am with you, I am with you and present and conscious with only you.  I don't need to bring in other factors, other people, work, etc, etc.  Right?  It's a gift.  It's basically saying you matter to me more than anything else you could be doing.  The opportunity cost of being with you is well worth it to me, right?  I'm not going to care what's happening with my boss.  I'm not going to care what's happening with the product we're shipping or whatever.  I'm going to disengage from everything else except you.  It's a nice gift.  I like it.
+
+**Scott**: The gift of, what do you call it?
+
+**Mo**: Being present, in the moment, with me.
+
+[Musical Interlude]
+
+**Scott**: Sometimes you'll say things like, if you cared about XYZ you'd do this, or you know, when you remember.. you said once to me that you remember things that you care about.
+
+**Mo**: That's deep.  Make an t-shirt.
+
+**Scott**: Make a t-shirt?  But I wonder sometimes if you think that, I wonder sometimes if you realize that... like you just said in the middle of your very eloquent speech, you said disengage.  And that was like a throw away word.  Like, it's easy.  Do you have any trouble disengaging or not checking your email for weeks at a time?  Do you have any trouble disengaging?
+
+**Mo**: No, but that's because I'm not as engaged as you are, right?  My life is the exact opposite.  I try to jump on the computer and the boys want to be on it too and then it becomes this big power struggle of you know, is mom going to be on the computer for two minutes or am I going to interrupt every time she tries to type something out?  It's not easy for me to be on the computer or the iPhone or whatever it is that you know, you might be using because you can say I'm going to the office and close the door.  You can have that private time.  I don't get to do that by virtue of the fact that I'm home with the boys.  So I'm not as connected as you are.  Half of the time I feel like I don't know what's going on in the rest of the world and you're always asking "what's happening in the world"?  Part of our struggle, when you come home, first thing after the boys are down, I want to sit down and watch the news because I don't know what's going on and you're like I've been online all day, I know exactly what's going on.  So I would say no I don't have as much trouble as you do but that's because I'm not as engaged as you.
+
+**Scott**: If you were this engaged, would you have any trouble disengaging?
+
+**Mo**: I'd never allow myself to get as engaged as you are.  Ah ha! Take that Hanselman!  [giggling] No no! No no!  I'm not bitter.  Did I come across as bitter?
+
+**Scott**: No no.
+
+**Mo**: Look. I get that it's part of the work you do and I think there is a lot that I don't understand about engineers as a group of human beings.  You guys are living in a world that is becoming almost kind of obsolete very quickly.  How long does it take a computer to become obsolete, like six months or something?
+
+**Scott**: Or a week depending on who you ask.
+
+**Mo**: Or a week right.  Everything is so fast.  It's got to be new.  It's got to be current.  And you've got to stay on it if you don't want be left behind by the current people.  That's just not my reality when I'm home with the kids.  It's about routine.  It's about every day.  You sort of know okay we're gonna get up.  We're gonna have breakfast.  We're gonna do this.  There's structure.  There's discipline in my life by virtue of having more than one kid but I try to get some structure to it, otherwise it completely falls apart.  I mean if I go to the grocery store and the five year old has got swimming or whatever, you've got to be able to do that you know?  So all that is just what I said, my life is a little bit different than yours in that regard.  You guys are like very quick, fast moving, living in a fast paced world.  My world is not like that.
+
+**Scott**: In a perfect world could you see me, like would you have me leave my phone in this room?  We're in the office right now.  Would I leave the phone in the room and I would exit the office and my brain would stop thinking about work and the podcast I need to do or the email or the expense report I need to send in or the website I need to launch and I would just be totally present while I'm outside the room?  Would you see it almost a split personality? Would that be ideal to have a split personality?
+
+**Mo**: Well split anything does usually sound good, right?  If you're splitting, you're leaving something somewhere, so I don't know if that concept works for me as well as saying I'm 100% where ever I am.  When I come to work, I'm 100% at work.  When I'm with you, I'm 100% with you.
+
+**Scott**: So you don't want 50-50, you want 100-100?
+
+**Mo**: Absolutely.  I deserve 100, don't I? [giggling]  And he smiles and says nothing.  Yea I get that, I remember one time before we had kids, we were both working and I can't remember what we were working on, some kind of an RP thing, a request for proposal thing we were working on, and it's stressful and you get involved and it's hard to disengage and detangle yourself and you and I were going to Washington to see the okras at Orka's Island I think it was, and I kid you not, it took me like we were half way there before I was finally able to let go of work.  My mind was so tied up and the whole time I was talking to you and you were asking questions and I think you thought I had long moved on and let go of it, but the background was still there.  Ohh man, I was supposed to do this.  I was supposed to do that.  What can I do, you know?  And it kinda takes away from, like I said, I wasn't really present with you whether you could tell or not.  Afterwards when I finally decided enough of this, you know, you can't do anything about it, we're on the road, there's just no way for me to VPN or whatever into work so I'm just going to let it go and then at that point it was like, okay so we're on vacation, we're going to have a nice pleasant weekend, that type of thing.  And that's what I'm talking about.
+
+[Musical Interlude]
+
