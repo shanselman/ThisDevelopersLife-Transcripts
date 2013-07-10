@@ -349,4 +349,89 @@ I don't know if you can hear the kids in the background.  I think that the pirat
 
 [Musical Interlude]
 
-  
+**Scott**: The part I would like to make sure that you're clear on is that it's not easy.  I mean, I think that it's an addiction.  Like an addiction like caffeine.  Maybe not like heroin, but definitely like caffeine.  It's an addiction.  Do you understand that it doesn't mean you don't appreciate the boys or you don't love the family because you instinctively or habitually reach for your phone in your pocket and tweet something out?  Like any gambler cannot be said to not love their kids because they are off pulling the one armed bandits arm kind of thing.  I think it's an addiction.  I'm not looking for sympathy as much as I'm looking for understanding in the process, and it will always be a process.  You know what they say about alcoholics?  There is no such thing as a cured alcoholic.  There's just that they haven't had a drink in X number of days.  Even if they say, oh yea I haven't drank in 50 years, they are still an alcoholic.  Even if I never tweet again.  I mean Rob quit twitter last week, did I tell you that?
+
+**Mo**: Crazy.  How is Rob?
+
+**Scott**: I don't know.  He's not on twitter.  I have no idea how he is.  I have no way to contact him!
+
+**Mo**: How is Rob's family? [laughing]
+
+**Scott**: I have no way to talk to him.  I'm sure they are probably very excited.
+
+[Musical Interlude]
+
+**Scott**: So it's a process.  I could quit twitter tomorrow and I would still think about it.  I guess in a sense oversharing is part of my life.  Remember that we're here doing a podcast, so when I say oversharing is part of my life, that shouldn't be a surprise.  You are speaking into a microphone.
+
+**Mo**: [giggling] I get that, yea.  I guess I don't know enough to be able to say definitely that it's an addiction in the most commonly understood sense of the concept but I guess if you really think that you're an addict, then seek help.  What am I going to tell you here?  Put the computer down and listen to your kids or seek help.
+
+**Scott**: I don't think it's that bad.
+
+**Mo**: It's pretty bad sometimes.
+
+**Scott**: Is it really bad sometimes?
+
+**Mo**: Sometimes, sometimes.  But not always.  Again, that's why I bring it back to choice.  You are implying that it's not a choice.  That you can't help yourself.  If it really is that then you do need to talk to a professional.  If one cannot say I'm going to let go of this now and make a conscious choice to walk away.
+
+**Scott**: I've tried a couple of techniques.  Like I'll leave my phone in the trunk.  I mean it's a good technique.  It means the bluetooth is there if someone needs to call me, but the phone is not there.  I cannot text unless I get out of the car.  And then I've tried turning it on airplane mode.  Turn off the data.  Move twitter off the first page.  Things like that.  Are those crutches?  Is it just like when I switch to caffeine free Diet Pepsi where it's like you're still sucking down Diet Pepsi, it's just caffeine free now?  Or is that real change?
+
+**Mo**: I don't know.  Again for me it's about the mental stuff, right?  You can put the computer away, but you're still thinking about it.  You may as well have it in your hand.  To the extent that your body is there but your mind is not.  You're just an empty shell to work with.
+
+[Musical Interlude]
+
+**Scott**: Do I still get to have this job?
+
+**Mo**: Well let's see. [laughing] Will the bank accept love to pay the mortgage?  Probably not, so you still get to do the job.
+
+**Scott**: No but I mean I could quit computers and I could be like a nurse or something and the next time someone in the neighborhood says can you fix my computer and says can you come and edit my config sys, I'll just say I don't know anything about computers.  We could move to another neighborhood.  No one knows I'm a computer person.  I'll pretend I don't know anything and the next time someone wants a video card swapped out, I'll just "ohh man, that's really... buy a mac".
+
+**Mo**: [laughing] Buy a mac, no.  No, I mean you love computers and you love technology, it's part of who you are.  I dont think you have to chose between say family and friends and computers.  You can have both.  The thing is just balance.  Just like everything else it's about finding that balance and finding that point when it's okay.  You need to be able to say you know what it's my son's birthday and I'm going to go away from the office and be present for the party and if I need to get back to it later, then I'll get back to it later.
+
+I have a question for you.  How was the whole being disengaged thing for you?
+
+**Scott**: It was hard.  Day three, you fell asleep early.  The boys were out.  I was sandwiched between two toddlers, passed out.
+
+**Mo**: Here comes the confession.  What did you do?
+
+**Scott**: [laughing] I looked at the iPad and I thought about what would I do if I went online.  And I did send that one picture of us, that I talked to you about, I did tweet that one picture like "hey we're here at Disney Land".  But that was it as far as Disney Land related tweets.  But then the question became as I was sitting there, I was like I can get online now, well, like, why?  I thought that was really interesting.  I thought it was almost healing in the sense of here's an opportunity to go online and do a bunch of stuff online but I didn't really have anything to do.  So it seems like the farther away that you get, the less you need it.  You know what I'm saying?  I mean I am a little sad.  I haven't checked my personal email.  I have that one that comes from my blog with questions.  So I mean I feel bad because it's like there are like 86 mails that I'll find of questions from people who want help.  So what was successful about this trip was it was a big trip.  It was a long trip and it was a big vacation.  So I need to figure out how to mentally train myself to disconnect...
+
+**Mo**: Daily.
+
+**Scott**: ...daily.  Right.  Daily disconnection.
+
+**Mo**: Right.  And then you can write a book about it and show others how..
+
+**Scott**: A book and then put it online!  It'll be an online e-book and then it'll have a twitter account and...
+
+[both laughing]
+
+**Mo**: We should wrap this up and promptly pick up the phone and check on Rob because he may not be doing well.  [laughing]
+
+**Scott**: We should call Rob because we can't tweet him.
+
+**Rob**: Right here!  Twitter is off.  No chirping in my ears.
+
+[Musical Interlude]
+
+**Rob**: Scott, sounds like Disney Land was a success.
+
+**Scott**: It was.  I think a fantasy world is the first place a person should go when they are trying to get out of a fantasy world online.
+
+**Rob**: Well it was nice to hear of you guys worrying about me.  You know I was going to suggest after hearing you talk with Mo that you could just leave twitter in the trunk too.
+
+**Scott**: [giggling] I am totally going to tweet that right now.
+
+**Rob**: Well seriously, this episode meant a lot to me for a lot of reasons and from me to you to all of our listeners, I just want to wish you all a happy holidays.  Disconnect.  Take some time with friends and family.  Same to you Scott, you and your family.
+
+**Scott**: Yep.  Happy Christmahanakwanzika.
+
+**Rob**: [giggling] Thank you very much.
+
+**Scott**: Bye bye.
+
+[Musical Interlude]
+
+**Rob**: I'd like to thank Twilio, T-W-I-L-I-O, twilio.com and SublimeSVN for sponsoring this episode of This Developer's Life.  We'd also like to thank you the listener for listening.  Thank you so much!  We will see you next time.
+
+[Music until end]
+
