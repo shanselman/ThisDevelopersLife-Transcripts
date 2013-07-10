@@ -273,3 +273,80 @@ I don't know if you can hear the kids in the background.  I think that the pirat
 
 [Musical Interlude]
 
+**Scott**: The difference between me and someone else whose in software is that they have a commute.  I assume people decompress on the commute.  They listen to the radio and they come slightly less stressed than they were, presumably.  But I literally have like a three inch thick door here, I go through and them boom, the kids are on us.  It's like daddy-mode.
+
+**Mo**: Yea, you have a five step commute.
+
+**Scott**: So I don't know.  What does disconnecting look like?
+
+**Mo**: Well, you're asking me.  I'm interested in hearing what that's like for you.
+
+**Scott**: Well I don't know.  If I knew the answer, I would have fixed it.
+
+**Mo**: It might mean that you come out of the office and go upstairs for 20 minutes or something.
+
+**Scott**: Like meditate?
+
+**Mo**: Yea, or maybe you finish your work at 6:00 pm and don't come out of your office until 6:15 pm.  I think it's going to be different things for different people.
+
+**Scott**: I remember I am engineer though.  You just said something very simple.  You specced it out for me.  Ohh you'll work until 6:00 pm and then you'll come out of your office at 6:15 pm.  But I'm an engineer.  I'm thinking what do I do from 6:01 pm to 6:14 pm? [both giggling]
+
+**Mo**: Well, what are you doing when you're with us?  You're body is with us but your mind is not.  Your thinking about things you need to do or that you should have done.  Maybe you jot those things down.  I mean to me it seems like when you are physically with us but not mentally with us, thinking about things you should have done, what you need to do or whatever the case may be.  Maybe you're preparing for tomorrow or whatever.  So use that time to do whatever else it is.  Then when you come out, you can use that time to feel free to be with us.
+
+**Scott**: Maybe the act of conscious disconnection like literally saying okay, I'm going to disconnect now.  I'm going to go outside and I'm going to be outside.  You know what I'm saying?  Like the actual consciousness of the disconnection as opposed to the "dinner's ready!" and then the door flies open and the children are in and then suddenly I'm ripped out of office mode and into daddy mode.
+
+**Mo**: Right, right.  Which is probably a little jarring for you.
+
+**Scott**: I'm glad that you recognize that.
+
+**Mo**: I do.
+
+**Scott**: That's like the first time.  Do you have any sympathy at all for the connected person becoming disconnected?
+
+**Mo**: I do.
+
+**Scott**: When we're in the heat of battle or whatever the case may be.  When we're clashing, it doesn't seem like you have a lot of sympathy for the disconnected person.  The connected person rather.  You say, just turn it off!  I mean how hard is that?  We're not talking about twitter.  What we're talking about is work, slash, urgency addiction.  Like the classic Stephen Covey, I am addicted to those things that are urgent because I have not yet worked on those things that are important.
+
+**Mo**: Right, right.  I was going to blurt that out.
+
+**Scott**: I know.  You were going to beat me to it.  You were going to get all MBA on me.
+
+**Mo**: I was waiting to use that urgency addiction!
+
+**Scott**: I'll let you use it if you want to.
+
+**Mo**: Oh no no, it's too late now.
+
+**Scott**: Do you think that's what it is?
+
+**Mo**: I do.  You're right though that it's not just twitter.  It's twitter, it's facebook, and everything in between.  It's tumblr, it's all these things.  You are constantly wanting to know...
+
+**Scott**: Some of that's work, but some of it's not.
+
+**Mo**: What's going on?  I think part of that is the nature of the industry that you work in.  I know that teachers, maybe as an example, are connected.  I'm sure there are some teachers that have this urgency addiction.  But I bet that music is never really like "what's new and fresh in the music world from the time I got out of class until the next morning"?  That industry doesn't move that fast, as far as I know anyway.  Whereas with you guys it is entirely possible that when you go to bed it's one thing and when you wake up in the morning it's maybe not completely different but something new has come up.
+
+[Musical Interlude]
+
+**Scott**: This is what's good about wives.  We've talked basically non stop for 10 plus years and you know you've got a good wife or a good spouse if they can like blow your mind or change your perspective on something on a regular basis and you just blew my mind.  Our industry moves so fast and you wake up on a random Tuesday and something may have changed the industry entirely and that's something I'm addicted to and that's huge, but my five year old might wake up on a random Tuesday and have figured out how to write his name in cursive and it changes the industry.
+
+**Mo**: It changes his life for sure.
+
+**Scott**: You blew my mind, dear.  Let's get married.
+
+**Mo**: [giggling] Okay, let's do it.
+
+**Scott**: I've been re-upped for another season.
+
+[Musical Interlude]
+
+**Scott**: So Disney Land.  We were in Disney Land yesterday and I made a conscious effort to disconnect.  Even though I told you I was disconnecting, I formalized, I am going to disconnect.  I warned you and I said that we would do a show about this and I would maybe record some snippets during the process as well.
+
+**Mo**: Right.
+
+**Scott**: How do you think the disconnecting went at Disney Land?  And when did you start to realize that I was disconnected and did I succeed in this trip more than in previous trips?
+
+**Mo**: I think so, yea.  For me it's watching your fingers.  Your fingers were still.  You weren't constantly typing on your phone.  I said let's bring your laptop and you said no let's leave it and that was the first sign.  You never go anywhere without your laptop or a computer of some sort and you are always joined to that stuff at the hip.  Your willingness to let go was like, hey this is really cool.  I'm trying to remember, I think one time I asked you if you have your phone and you said no I left it and I was like WOW!  It was surreal.  When's the last time you did that?  This is so much a part of who you are.  I see Scott, I see his wedding ring, I see his phone and computer or iPad or whatever it is and involved in the moment.  For you to not have that and me to be the one to ask you where is it was great.  It was wonderful.  It was such an awesome gift.  You basically said I gonna go on vacation Mo and the kids and we're going to have a good time and I'm going to be there.  I could care less about letting the world know "Just saw Mickey, hey!" or "Just saw Goofy, hey!" or whatever.  It was awesome.
+
+[Musical Interlude]
+
+  
