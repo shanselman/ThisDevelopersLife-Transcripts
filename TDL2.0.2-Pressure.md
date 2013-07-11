@@ -35,7 +35,7 @@ Scott: Remember that scene in *Pulp Fiction* when they're about to put a syringe
 
 > Man1: She's ODin'
 
-> Judy: Get her the hell outta here!
+> Woman: Get her the hell outta here!
 
 > Man1/Man2: Get the \_\_\_\_ shot!
 
