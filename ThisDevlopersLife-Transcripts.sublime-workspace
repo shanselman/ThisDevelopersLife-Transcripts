@@ -1,0 +1,1096 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"oupt",
+				"output=\"filename\"	output"
+			],
+			[
+				"commitFore",
+				"commitForecastByDateRange"
+			],
+			[
+				"cf_sql_",
+				"cf_sql_date"
+			],
+			[
+				"AR",
+				"ARetail"
+			],
+			[
+				"ARe",
+				"ARetailRms"
+			],
+			[
+				"AGr",
+				"AGroupRms"
+			],
+			[
+				"listFind",
+				"listFindNoCase	fn. (cfscript)"
+			],
+			[
+				"ListFindNoC",
+				"ListFindNoCase"
+			],
+			[
+				"STLYGro",
+				"STLYGroupRms"
+			],
+			[
+				"table",
+				"tablestyle1"
+			],
+			[
+				"refr",
+				"refreshData"
+			],
+			[
+				"Ser",
+				"serializeJSON	fn. (cfscript)"
+			],
+			[
+				"refere",
+				"referenceDOW"
+			],
+			[
+				"cf_sql",
+				"cf_sql_integer"
+			],
+			[
+				"Month",
+				"MonthShift"
+			],
+			[
+				"enter",
+				"enterRoomsAndRevenue"
+			],
+			[
+				"perD",
+				"perDateTotalsAllSegments"
+			],
+			[
+				"oup",
+				"output=\"false\"	output"
+			],
+			[
+				"output",
+				"output=\"false\"	output"
+			],
+			[
+				"ret",
+				"returntype=\"guid\"	returntype"
+			],
+			[
+				"type",
+				"type=\"Application\"	type"
+			],
+			[
+				"f",
+				"filename	@filename"
+			],
+			[
+				"durat",
+				"durationValue"
+			],
+			[
+				"outpu",
+				"output=\"filename\"	output"
+			],
+			[
+				"required",
+				"required=\"true\"	required"
+			],
+			[
+				"for",
+				"format=\"html\"	format"
+			],
+			[
+				"typ",
+				"type=\"error\"	type"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-bo",
+				"border-bottom-style"
+			],
+			[
+				"colum",
+				"columnDates"
+			],
+			[
+				"paid",
+				"paidOccSumOfAverages"
+			],
+			[
+				"getDayArray",
+				"getDayArrayByDateRange"
+			],
+			[
+				"segmentTy",
+				"segmentTypeList"
+			],
+			[
+				"Mi",
+				"mid	fn. (cfscript)"
+			],
+			[
+				"currentSegm",
+				"currentSegmentType"
+			],
+			[
+				"perSEg",
+				"perSegmentTypeTotals"
+			],
+			[
+				"segmentT",
+				"segmenttype"
+			],
+			[
+				"currentSeg",
+				"currentSegmentType"
+			],
+			[
+				"currentSe",
+				"currentSegmentType"
+			],
+			[
+				"fore",
+				"forecastQuery"
+			],
+			[
+				"popul",
+				"populateForecastDataTable"
+			],
+			[
+				"getFore",
+				"getForecastDataByDateRange"
+			],
+			[
+				"requi",
+				"required=\"true\"	required"
+			],
+			[
+				"db",
+				"dbtype=\"query\"	dbtype"
+			],
+			[
+				"retur",
+				"returntype=\"boolean\"	returntype"
+			],
+			[
+				"access",
+				"access=\"public\"	access"
+			],
+			[
+				"out",
+				"output=\"false\"	output"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1081,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "TDL2.0.2-Pressure.md",
+			"settings":
+			{
+				"buffer_size": 38750,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 300.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"instal pa",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				":we",
+				":w - Save"
+			],
+			[
+				"snipp pc",
+				"Snippet: pctemplate"
+			],
+			[
+				"snip",
+				"Snippet: cfappserv"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rem pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				":ev",
+				":e - Revert"
+			],
+			[
+				":e",
+				":$ - EOF"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				"file rever",
+				"File: Revert"
+			],
+			[
+				"rever",
+				"File: Revert"
+			],
+			[
+				"git rest",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git: add",
+				"Git: Add Current File"
+			],
+			[
+				"git res",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"cflib",
+				"ColdFusion: Insert CFlib UDF"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"package disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"paca con upg c",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"con li",
+				"Package Control: List Packages"
+			],
+			[
+				"packag con lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"",
+				":w - Save"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":r",
+				":e - Revert"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sstone/Documents/GitHub/ThisDevelopersLife-Transcripts/ThisDevlopersLife-Transcripts.sublime-project",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/generate/TDL2.0.2-Pressure.md",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/test/cftest.cfm",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cftemplate.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/jsretdef.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/pctemplate.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/html.sublime-snippet",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/test/test2.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/generate/handler.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/index.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/index.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/enterRoomsAndRevenue.cfm",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/segments/handler.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/generate/BudgetGenerator.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/applyforecast.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/forecast/handler.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/mainforecastsGateway.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/deleteHotelData.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/my.sql",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/applyforecast.cfm",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/Vintage Numbers/README.md",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/home/index.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/includes/header.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/styles.css",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/hotels/index.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/css/custom-theme/jquery-ui-1.8.11.custom.css",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/users/index.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/my2.sql",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/test.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/dataentryform.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/js/jquery-1.5.1.min.js",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cflooparray.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cfsnip.sublime-snippet",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/mainforecastsDAO.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/mainforecasts.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/lib/udf/getNearestDOWPreviousYear.cfm",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cfarg.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cffunc.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cfdebuglog.sublime-snippet",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/orm/RoomsAndRevenueService.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/orm/RoomsAndRevenue.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/revenuestarService.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/orm/Budget.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/handler.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/type5PDFReport.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/edit2.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/edit3.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/includes/footer.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/enterRoomsAndRevenue2.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/.st2/RevSTAR.sublime-project",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/type1PDFReport.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/type1ExcelReport.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/type1MultiTabReport.cfm",
+		"/C/s/tmp/apex.log",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/tempforecastsGateway.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/import/ActualRevenueImporter.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/testExcel.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/linkTest.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/reportDataManager.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/exportExcel.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/segmentsGateway.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/reportUtil.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/download.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/type2PDFReport.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/fnbExcelReport.cfm",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/handler_dump.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/justatest.txt",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/CommandOnSave/Base File.sublime-settings",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/.st2/synconsave.bat",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/download.cfm",
+		"/C/s/var/workspace.sh/revenuestar/budget/index.cfm",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/handler.cfm",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/exportExcel.cfc",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/reportDataManager.cfc",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/type1PDFReport.cfm",
+		"/C/s/var/workspace.sh/revenuestar/segments/handler.cfm",
+		"/C/s/var/workspace.sh/revenuestar/cfc/data/hotelsDAO.cfc",
+		"/C/s/bin/tomcat/cfroots/cf10iz/revenuestar/budget/print/displayPDFReport.cfm",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/test.cfm",
+		"/C/s/var/workspace.sh/revenuestar/login/login.cfm",
+		"/C/s/var/workspace.sh/revenuestar/budget/modifyforecast/config.xml",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/exportPDF.cfc",
+		"/C/s/var/workspace.sh/revenuestar/cfc/data/segmentsGateway.cfc",
+		"/C/s/var/workspace.sh/revenuestar/cfc/data/mainforecastsGateway.cfc",
+		"/C/s/var/workspace.sh/revenuestar/cfc/data/mainforecastsService.cfc",
+		"/C/s/var/workspace.sh/revenuestar/budget/modifyforecast/ForecastModule.swf",
+		"/C/s/var/workspace.sh/revenuestar/.st2/synconsave.bat",
+		"/C/s/var/workspace.sh/revenuestar/web.config",
+		"/C/s/var/workspace.sh/revenuestar/index.cfm",
+		"/C/s/var/workspace.sh/revenuestar/revenuestar.sublime-project",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/SVN.sublime-settings",
+		"/C/s/tmp/acl_out",
+		"/C/s/tmp/acl_out2",
+		"/C/s/var/workspace.sh/todomvc/architecture-examples/backbone/js/todos.js",
+		"/C/s/var/workspace.sh/fluent12/bookmarklets.htm",
+		"/C/s/d/Dropbox/etc/cygwin/$sasreadme (onezero's conflicted copy 2012-04-14).txt",
+		"/C/users/sstone/appdata/local/temp/sublime-sftp-browse-1337700689/cftest/home/sstone/workspace.sh/siteutil-trunk/pcshare/index.php",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/users/sstone/appdata/local/temp/sublime-sftp-browse-1337565035/cftest/var/www/html/wireframe/fb-photo-share.php",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/C/users/sstone/appdata/local/temp/sublime-sftp-browse-1337494156/cftest/var/www/html/pcshare/index.php",
+		"/C/users/sstone/appdata/local/temp/sublime-sftp-browse-1337493232/cftest/var/www/html/pcshare/index.php",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/cftest",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/test.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/html5-skel",
+		"/C/s/d/Dropbox/var/devel/snippets/html5-skel.xml",
+		"/C/s/d/Dropbox/var/devel/sublime/onezero/specialevents-trunk.sublime-project",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/s/var/workspace.sh/specialevents-trunk/sereg/Application.cfm",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/Coldfusion.sublime-settings",
+		"/C/s/var/workspace.sh/registration-trunk/reg/error.cfm",
+		"/C/s/var/workspace.sh/registration-trunk/reg/index.cfm",
+		"/C/cygwin/home/sstone/dropbox"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\sstone\\Documents\\GitHub\\RevSTAR",
+			"",
+			"C:\\Users\\sstone\\Documents\\GitHub\\RevSTAR\\budget\\print",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"want to be",
+			"really want",
+			"about his",
+			"system",
+			"Totally",
+			"y thou",
+			":",
+			"/some thin",
+			"Chaos Monk",
+			"torp",
+			"Put the to",
+			"5 hour",
+			"Did we lose",
+			"comp",
+			"Fiction",
+			"human-",
+			"Check",
+			"CodeRush",
+			"Act",
+			"Act 2",
+			"Sam's",
+			"Sam",
+			"____",
+			"*bleep*",
+			"Stack",
+			"*",
+			"expandedQuery",
+			"el.entrydate",
+			"el",
+			"el.entrydate ",
+			"datesQuery",
+			"zeroQuery",
+			"segmentID",
+			"curDate",
+			"\\$",
+			"$",
+			"commitForecast",
+			"startDate",
+			"commitdate",
+			"updateTi",
+			"commit",
+			"startDate",
+			"year",
+			">$",
+			"url.",
+			"year",
+			"commitprogressbar",
+			"dialog_commit",
+			"commit_link",
+			"Commit FOre",
+			"</h3>",
+			"<h3>",
+			"td_link2",
+			"edit",
+			"\"",
+			"generate_dialog_link",
+			"Generate",
+			"print_link",
+			"</h3>",
+			"<h3>",
+			"</h3>",
+			"<h3>",
+			"content",
+			"budgetgriddiv",
+			"700",
+			"<link",
+			"<style",
+			"style",
+			"cfmod",
+			"cfinclude",
+			"content",
+			"monthstable",
+			"ui-widget",
+			"<table",
+			"jquery",
+			"cfquery",
+			"myRev",
+			"Whls",
+			"datare",
+			"form.",
+			"myMELY",
+			"=",
+			";",
+			"form",
+			"myM",
+			"myMELY",
+			"getTotalR",
+			"\" default=\"0\"",
+			"param name=\"",
+			"monthShift",
+			"url.entryid",
+			"Whls",
+			"LastYear",
+			"printtab",
+			"type2",
+			"edit2",
+			"edit",
+			"MonthShift",
+			"edit2",
+			"edit1.cfm",
+			"submitBu",
+			"edit1",
+			"dataentryform",
+			"includes",
+			"type2",
+			"type3",
+			"t3monthtype2select",
+			"monthtype2select",
+			"quartertype2",
+			"monthselect",
+			"quarterselect",
+			"<form",
+			"quarterselect",
+			"2",
+			"yeardiv",
+			"quartertyperadio",
+			"\"",
+			"printt",
+			"quarterdiv",
+			"reportduration",
+			"type2",
+			"selectedtype",
+			"yeartyperadio",
+			"reporttype",
+			"reportduration",
+			"yeartype5select",
+			"yeartype2",
+			"2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\_\\_\\_\\_",
+			"____",
+			"\\*",
+			"shellQuery",
+			"/>",
+			"URL.",
+			"",
+			"'",
+			"",
+			"dataRefresh.",
+			"MELY",
+			" =",
+			" />",
+			"<cfset form",
+			" = STLY[1].getARetailRms() /",
+			" = STLY[1].getARetailRms()",
+			"set ",
+			"type5",
+			"monthtype3select",
+			"monthtype2select",
+			"quartertype2select",
+			"'",
+			"type5",
+			"format5",
+			"type5",
+			"Serial",
+			"arguments.excelSheet",
+			"'",
+			"local.totals",
+			"totals.listRows",
+			"totals.revenue",
+			"totals.rooms",
+			"excelColumnNumtoColumnName",
+			"reportUtil.GetCellPosi",
+			"local.result",
+			"local.endDate",
+			"local.startDate",
+			"arguments.durationValue",
+			"local.reportDuration",
+			"arguments.duration",
+			"dataTbl",
+			"createType1Report",
+			"local.per",
+			"th",
+			"grandTotals",
+			"th",
+			"detail_cell",
+			"row_label",
+			"column_label",
+			"segmentRooms",
+			"local.tempDate",
+			"acl_out",
+			"appendTarget",
+			"selectedPhotoBaseURL"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 1081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1003,
+								1003
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "TDL2.0.2-Pressure.md",
+					"settings":
+					{
+						"buffer_size": 38750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25931,
+								25931
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4916.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"ThisDevlopersLife-Transcripts.sublime-project"
+			],
+			[
+				"handl",
+				"RevSTAR/budget/generate/handler.cfm"
+			],
+			[
+				"mainforecaste",
+				"RevSTAR/cfc/data/mainforecastsGateway.cfc"
+			],
+			[
+				"handler",
+				"RevSTAR/budget/forecast/handler.cfm"
+			],
+			[
+				"forehand",
+				"RevSTAR/budget/forecast/handler.cfm"
+			],
+			[
+				"deletehotel",
+				"RevSTAR/budget/deleteHotelData.cfm"
+			],
+			[
+				"applyfore",
+				"RevSTAR/budget/applyforecast.cfm"
+			],
+			[
+				"budgetg",
+				"RevSTAR/budget/generate/BudgetGenerator.cfc"
+			],
+			[
+				"genehand",
+				"RevSTAR/budget/generate/handler.cfm"
+			],
+			[
+				"handler.cfm",
+				"RevSTAR/segments/handler.cfm"
+			],
+			[
+				"enterr",
+				"RevSTAR/dates/enterRoomsAndRevenue.cfm"
+			],
+			[
+				"datesind",
+				"RevSTAR/dates/index.cfm"
+			],
+			[
+				"budind",
+				"RevSTAR/budget/index.cfm"
+			],
+			[
+				"header",
+				"RevSTAR/includes/header.cfm"
+			],
+			[
+				"inchead",
+				"RevSTAR/includes/header.cfm"
+			],
+			[
+				"dates/da",
+				"RevSTAR/dates/dataentryform.cfm"
+			],
+			[
+				"test.cfm",
+				"RevSTAR/dates/test.cfm"
+			],
+			[
+				"test.",
+				"RevSTAR/dates/test.cfm"
+			],
+			[
+				"data",
+				"dates/dataentryform.cfm"
+			],
+			[
+				"dataen",
+				"dates/dataentryform.cfm"
+			],
+			[
+				"type1mult",
+				"budget/print/type1MultiTabReport.cfm"
+			],
+			[
+				"type1exce",
+				"budget/print/type1ExcelReport.cfm"
+			],
+			[
+				"multi",
+				"budget/print/type1MultiTabReport.cfm"
+			],
+			[
+				"type1mul",
+				"budget/print/type1MultiTabReport.cfm"
+			],
+			[
+				"fnbex",
+				"budget/print/fnbExcelReport.cfm"
+			],
+			[
+				"type2pdfr",
+				"budget/print/type2PDFReport.cfm"
+			],
+			[
+				"type1pdfr",
+				"budget/print/type1PDFReport.cfm"
+			],
+			[
+				"segmentsgat",
+				"cfc/data/segmentsGateway.cfc"
+			],
+			[
+				"reportdatam",
+				"budget/print/reportDataManager.cfc"
+			],
+			[
+				"type1",
+				"budget/print/type1PDFReport.cfm"
+			],
+			[
+				"mainfore",
+				"cfc/data/mainforecastsGateway.cfc"
+			],
+			[
+				"mainfo",
+				"cfc/data/mainforecasts.cfc"
+			],
+			[
+				"repor",
+				"budget/print/reportDataManager.cfc"
+			],
+			[
+				"mainforeca",
+				"cfc/data/mainforecastsGateway.cfc"
+			],
+			[
+				"reportdat",
+				"budget/print/reportDataManager.cfc"
+			],
+			[
+				"reportd",
+				"budget/print/reportDataManager.cfc"
+			],
+			[
+				"export",
+				"budget/print/exportExcel.cfc"
+			],
+			[
+				"budgprinhan",
+				"budget/print/handler.cfm"
+			],
+			[
+				"budget/inde",
+				"budget/index.cfm"
+			],
+			[
+				"hotelda",
+				"cfc/data/hotelsDAO.cfc"
+			],
+			[
+				"exce",
+				"budget/print/exportExcel.cfc"
+			],
+			[
+				"segmentsg",
+				"cfc/data/segmentsGateway.cfc"
+			],
+			[
+				"segmentsga",
+				"cfc/data/segmentsGateway.cfc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"regis",
+				"/C/s/var/workspace.sh/registration-trunk/.st2/registration-trunk.sublime-project"
+			],
+			[
+				"regi",
+				"/C/s/var/workspace.sh/registration-trunk/.st2/registration-trunk.sublime-project"
+			],
+			[
+				"reg",
+				"/C/s/var/workspace.sh/registration-trunk/.st2/registration-trunk.sublime-project"
+			],
+			[
+				"site",
+				"/C/s/var/workspace.sh/siteutil-trunk/.st2/siteutil-trunk.sublime-project"
+			],
+			[
+				"revs",
+				"/C/Users/sstone/Documents/GitHub/RevSTAR/.st2/RevSTAR.sublime-project"
+			],
+			[
+				"",
+				"/C/Users/sstone/Documents/GitHub/RevSTAR/.st2/RevSTAR.sublime-project"
+			],
+			[
+				"revst",
+				"/C/Users/sstone/Documents/GitHub/RevSTAR/.st2/RevSTAR.sublime-project"
+			],
+			[
+				"r",
+				"/C/s/d/Dropbox/var/devel/sublime/onezero/registration-trunk.sublime-project"
+			],
+			[
+				"re",
+				"/C/s/d/Dropbox/var/devel/sublime/onezero/registration-trunk.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true
+}
