@@ -243,6 +243,187 @@ Niki:  Not very long...
 
 Nate: Eight?
 
-Niki:  July to August? 
+Niki:  July to August? Er, no.  July to April.
 
-[42:56]
+Nate:  April, yea.
+
+Niki: Yea, so...
+
+Nate:  Our betting onset is, I can't count...
+
+[Niki laughing]
+
+Nate:  But.. I mean it, you know, it happened so fast.  Ah, we had no intention, I don't think, of, you know, of, umm, you know, selling the company that quickly.  But, ah, you know, it worked out, it was the right decision to make, you know, at the time and everything, so, umm, yeah, I think it was more surreal than anything else.
+
+Niki:  Yea, I think it was a mix of emotions, and I don't think that we really understood the magnitude of it until much, much later. 
+
+Nate:  We didn't really understand, I think, what we had done, I mean again, ah, that sounds like what we've done is just incredible, which honestly, it's not.  But, um, I think we underestimated it for a long time, and then even just Rally being interested in in buying the company was, you know, justification for what we'd done and... But then we had, you know, we had a lot of encouragement along the way too from, you know, our customers and everything.  That, I mean, you know, we had, we had kind of set up some goals in mind, you know, for what we wanted to achieve and, and we beat all of them. I mean it, you know, and, I mean maybe our goals were conservative, but, you know, and we thought too small, but, you know, we, we, just continued to, to do well. And so, umm, I think that's surprising. 
+
+Niki:  We launched at like, ten or eleven in the morning, and woke up the next day, and Nate goes, "You won't believe how many people signed up.".  I was like, "Oh, I don't..".  He was like, "Guess.". I was like, "Oh, I don't know, you know, couple hundred or whatever.".  He's like, "A thousand people.". And I was like, "I don't even know a thousand people.". Like, that seemed like a really ridiculous number to me. So, I was, I'm like, "Okay, maybe we underestimated ourselves.  Maybe people were more interested than we thought.".  And then it kind of went through a series of things from there. It was like, "Oh, we just made a sale.  Oh, we just made a sale for a year.  Oh, that's interesting, people have confidence that we'll be here a year from now. That's actually pretty good.". And then, you know, later on, we had conversations with, ah, other people who worked at places that were not Rally, let's just say that, and they were like, "Yea, you know, we should acquire you guys for a lot of money", and we're like, "Oh, yea, that's funny.". We had a good laugh about it. And not a couple of weeks later did rally come to us and, and talk about partnerships or acquisition.  And we're like, "Okayyy...".
+
+Nate:  And I think even before that too, we had applied for a grant too, in Northeast Ohio. And, you know, that was a whole process of, you know, going and pitching to them, and you know, explaining what the business was and everything like that.  I mean, essentially what you do, you know, for investment of any kind, although, this is non-recourse, you know, they would take a slice of the company, and ahh, we had, we had pitched once, and actually gotten rejected. And then we went back and pitched again after we launched, and it was, it was really interesting the difference to be able to talk about, um, you know, the adoption rate, and that kind of thing. I do remember, um, when they called to, ah, you know, tell us we had been awarded the grant.  Which was, you know, twenty five thousand dollars, which, you know, for a bootstrap company is, like, that was amazing. It basically doubled our runway, you know, that we had. Um, Niki was actually at school, um, you know, with her PhD classes, and uhh, they called, and, you know, I answered.  And then Niki came home, and you know...
+
+Niki: Yea
+
+Nate [asking Niki]:  What did I say to you?
+
+Niki: I don't remember, but I was like, "No way...".
+
+Nate: Yea
+
+Niki: "No way.".  I will say though that when we pitched that, that second time, I really felt like when we left, I was like, "We nailed that.". Like, that may have been the best thing that ever, that I've ever done.  
+
+Nate:  There was, there was a lot of, umm, I think there was a lot of, like, um, escalating moments of...
+
+Niki: Yea
+
+Nate:  Of success. And umm, you know, it part of me does still wonder, you know, had we continued to, you know, stay independant, would we continue having those escalating moments of success? Um, not that I regret the decision to sell the company or anything, but, umm, it was, ahh, you know, we had, uhh just kept climbing and climbing and climbing while we were independant. Um, you know, we had, I still kind of wonder where it would have went, you know, sometimes.
+
+Niki: Yea.
+
+Nate: A lot of people ask us, you know, if it's strange to be, you know, a married couple and start a business, and you know, now work together at the same company and everything like that. You know, I think at this point, now, it would be weird if we didn't.  Ahh, I think...
+
+Niki:  Yea
+
+Nate:  But I don't know if it's for everybody, I think we, we're that way about most things, I mean, you know, we just kinda have a rule that, you know, nothing is off limits, in term, in terms of, you know, conversation. It's important to talk about everything, you know, freely.  Because you can't do that, if you, you start walking on eggshells about stuff, and you worry too much about hurting the other person's feelings, about, you know, the truth, umm, you get into trouble.  You know, I think, I actually think we, and we've talked about this since, we thought it was gonna be harder than it was. 
+
+Niki: Yeah.  I thought being married was gonna be harder than it was actually. 
+
+Nate: Yeah.
+
+Niki:  And so the whole thing, the whole thing has exceeded my expectations. 
+
+Nate: Right.
+
+Niki:  We, I mean we do fun stuff together, we absolutely grab a bottle of wine and just hang out, and talk about something other than work. [Laughs]
+
+Nate: Sure.
+
+Niki:  And, you know, we play games, or whatever.  We, sometimes, some video games, now we play them together. So that's...
+
+Nate:  Sure.
+
+Niki:  I've learned to like some of those things, and Nate's learned to go to the mall with me on occasion. So...
+
+Nate: Right! Yep.
+
+Niki: It's all working out. 
+
+Nate: She's a great second player in like, Super Mario Galaxy...  
+
+Niki:  True.
+
+Nate: And stuff like that.
+
+Niki:  I took, I play Team Fortress 2, and I always play as a medic because I'm collaborative like that, and then I, I actually like watching people play video games.  I know that sounds really crazy. But I've always been like that, so I'm not very good at anything, but if there's something where like I'm the second player and I don't have to do a lot, I'm very much into that!
+
+Nate: You just instantly made a bunch of geeks jealous.
+
+Niki: [Begins laughing]
+
+Scott:  Certainly the part about them selling their business while keeping a happy marriage is interesting, but the, she plays video games with him too. Now they, now they're just showing off now. 
+
+Rob:  Yeah, they're kinda like the Osmonds, I suppose, if you will. 
+
+Scott:  Okay, well that's an interesting approach, I mean what is the core thing that one would want from another business partner? 
+
+Rob:  Trust.  Absolutely trust.  Knowing that they're going to do their part, and if you say to them, "Listen, I really have to talk to you about changing something", you know that they're gonna listen.  
+
+Scott:  Umm hmm.  Well this is a little bit like the reverse of what we talked about earlier, you know, that these people who successfully launched a start-up and sell it are naturally driven, and are very likely incapable of understanding when someone would complain for all the, you know, bad things that are going on in the company. 
+
+Rob: Yep.  Yeah, and if you put Nate and Niki together, they do become a Dave or a Tom. I mean, Niki is absolutely driven, it doesn't take too long to ah, to talk to her, to hear just how smart she is, and how directed she is, and she was a Ph.D. candidate, you can hear it in her voice.  I mean, Nate also has drive, but it's a little bit more along the technical lines, I mean, he's kinda like Tom and that he's able to see an idea and then execute it. Carry it through.
+
+Scott: Mmm hmm.
+
+Niki: It, it didn't seem strange to me at all that we would start a business together. I always knew that Nate wanted to start a business. I knew that since we were sixteen. Umm, and there was always a goal to make that happen in some way, and I think our original plan was, "Hey, you know, I'll go to grad school for a couple of years, umm, I'll come out, I'll get a job so we have healthcare, you know, and you can go and just do what you wanna do. And start a business."  And then it kinda happened that Nate had an idea, I was into it, and I said, you know, "Let's just do it now." 
+
+Nate: It wasn't really until, you know, she started saying she was interested that I, you know, I took a step a back and I said, "Well, wait a minute." You know, that makes perfect sense.  You know, it, you know, we both have the same kind of, you know, drive and um, work ethic, and, you know, we're both forthright and good communicators and all that kind of thing. So, you know, starting the company together really started to make more sense than me being alone, you know.
+
+Niki:  Yea, and I think we have complimentary skillsets, and we know what our deficiencies are, we're perfectly happy with them being that way.
+
+Nate: Yea, we're honest about it.
+
+Niki: Yeah.
+
+Nate:  I, I can't keep something running.  I'm not good at keeping things going and organized. I'm the most disorganized person in the world. So, but I could set something up, and I, you know, I could see what it will look like, and I could create things from nothing, you, I'm, I'm and engineer, that's what I do. Umm, but in terms of, you know, handling support, and you know, the accounting and, you know, actually making the business operate like a business.  Not just, you know, I can build a product, but you know, I don't think I would have been able to take the product and turn it into a business without Niki. 
+
+[Musical Interlude]
+
+Scott:  Well, they, they always say when they're talking about Microsoft that you need to have both a Bill, and a Steve. You have to have a technical head and a business head. Alright, so, in this context, ah, Niki is a little bit more like Dave. You know, she's, she's the business person, she loves Nate, and she wants to make sure that he'll fulfill his idea. Some people build to see things through. Tom, Nate, yourself.  You get a vision, you put your head down, you say, "Get outta my way, here comes the vision train.".  And, then you know, this is why guys like you who have a hard time delegating, and divorcing yourself from the idea. 
+
+Rob:  Yeah, absolutely. I am a horrible manager. Uhm, you know, and then there's people who are a bit more like Dave.  Makin' it rain, showing people what's possible, and trying to change their lives.  Um, I mean, truthfully, I think that kind of sounds a bit like you too. 
+
+Scott:  Mmmmmmmmmmmmmmmmmm.... Maybe.  I don't know. I don't think I have the head for being a start-up person although. Maybe if I could drink all the diet soda I wanted and have tacos all day I would, I would do a start-up like that. But I would still never let you sleep in my garage. But, but let's bring this home.  So in the beginning, we asked the question, um, you know, who are these people? I, I think that we know that. I think we know who they are now. 
+
+Rob:  They're people who believe in themselves, and they belive in their idea. Ah, sometimes to a level that puzzles others, and makes them uncomfortable. I mean, I belive in my ideas.  But I'm not willing to sleep in my garagae, or your garage, or turn down a truckload of cash just because I wanna work for me. I feel like I have an off switch. 
+
+Scott:  What I wanna know, though, is how do you deal with these people when you work for them?  You know, how do you manage up, when someone belives in something so strongly?
+
+Rob:  That is the question, and I think that's probably what's on a lot of people's minds, but, unfortunately, we're a little bit out of time, but I think that sounds like a great topic for the next show. 
+
+Scott:  Ha, ha... Managing up!
+
+Rob:  Time to queue the music, your favorite part!
+
+Scott:  My favorite part. 
+
+[Music begins]
+
+Scott:  No Lady Gaga please.
+
+Rob:  [laughs]
+
+[Musical interlude]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
